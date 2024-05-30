@@ -5,7 +5,8 @@ author:
   - laura
   - jillian
 aliases: 
-tags: 
+tags:
+  - post
 draft: false
 ---
 
