@@ -24,4 +24,4 @@
 ## callouts
 
 > [!jillian] Jillian
-> this is what a callout looks like! these are good for adding little side-notes & additional comments. make sure you use the `[!NAME] NAME` syntax, with your name in those two spots (the callout type, and the callout title) so the callout is correctly attributed to you on the site. 
+> this is what a callout looks like! these are good for adding little side-notes & additional comments. make sure you use the `[!NAME]` syntax, with your name in that spot and *no title*, so the callout is correctly attributed to you on the site. 
