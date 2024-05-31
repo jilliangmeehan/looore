@@ -7,8 +7,8 @@ tags:
 
 i've been learning a bit about [nero](https://en.wikipedia.org/wiki/Nero?useskin=vector) recently & there are just so many interesting things that remind me of both [[rex lapis]] and [[king deshret]]:
 - [the golden house](https://en.wikipedia.org/wiki/Domus_Aurea?useskin=vector) !!!
-- [[notes/reference/motifs/memory|damnatio memoriae]]
-- seeing himself as a [[notes/reference/motifs/sun|sun]] god — deshret & rex lapis both lean quite heavily on the [[notes/reference/motifs/sun|sun]] imagery
+- [[memory|damnatio memoriae]]
+- seeing himself as a [[sun|sun]] god — deshret & rex lapis both lean quite heavily on the [[sun|sun]] imagery
 - the way he kinda went crazy & ended up with a horrible reputation, but was supposedly loved by his people 
 - his love for architecture & the arts
 - the once-held [belief](https://en.wikipedia.org/wiki/Nero_Redivivus_legend?useskin=vector) that he would return (possibly as the antichrist?) after his death, or that he was actually still alive
@@ -27,7 +27,7 @@ this is interesting because the book of revelation supposedly alludes to the ner
 
 > Some Bible scholars see the description of the wounding and healing of the Beast in Revelation 13:3 and the mention of the eighth king who is also one of the earlier seven kings in Revelations 17:8-11 as allusions to the Nero Redivivus legend.[^1]
 
-so it seems like a lot of things are pointing to the idea of an ancient god-king, possibly associated with the [[notes/reference/motifs/sun|sun]], who may or may not be resurrected later as some kind of antichrist figure. 
+so it seems like a lot of things are pointing to the idea of an ancient god-king, possibly associated with the [[sun|sun]], who may or may not be resurrected later as some kind of antichrist figure. 
 
 that said, the book of esoteric revelations quest + [the narzissenkreuz adventure](https://genshin-impact.fandom.com/wiki/The_Narzissenkreuz_Adventure_(Act)) quest both sort of pointed toward the idea that things may not be what they seem, that prophecies may not come true, that the evil may not really be evil, etc. and that last point especially makes me think of nero.
 

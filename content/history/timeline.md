@@ -1,9 +1,9 @@
 ---
-title: "timeline"
-draft: false
+title: timeline
+draft: true
 tags:
-- history
-- reference
+  - history
+  - reference
 ---
 
 this is a very work-in-progress overview of the timeline & history of teyvat — as far as we know it, i guess. most of this is pulled from the [wiki](https://genshin-impact.fandom.com/wiki/Timeline), so if you're looking for something more comprehensive, that's the place to go.

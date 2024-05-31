@@ -1,9 +1,9 @@
 ---
-title: "the ark's opening"
-draft: false
+title: the ark's opening
+draft: true
 tags:
-- timeline
-- history
+  - timeline
+  - history
 ---
 
 - **400 years after defeating [[the seven sovereigns]]**, [[notes/characters/the primordial one|the primordial one]] + [[notes/characters/the four shades|the four shades]] finished creating the [[notes/places/realms|human realm]] and filling it with animals

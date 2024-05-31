@@ -17,7 +17,7 @@ those first two, "hadean" and "archean," sound pretty interesting to me.
 here's the etymology of the "hadean" eon / eonothem, via [wikipedia](https://en.wikipedia.org/wiki/Hadean):
 > "Hadean" (from [Hades](https://en.wikipedia.org/wiki/Hades "Hades"), the Greek god of the underworld, and the underworld itself) describes the [hellish](https://en.wikipedia.org/wiki/Hell "Hell") conditions then prevailing on Earth: the planet had just formed and was still very hot owing to its recent [accretion](https://en.wikipedia.org/wiki/Accretion_(astrophysics) "Accretion (astrophysics)"), the abundance of short-lived radioactive elements, and frequent collisions with other Solar System bodies.
 
-that reminds me a lot of [[content/notes/history/timeline|the old world]], before the era of archons in teyvat. the reference to the underworld is just a fun bonus.
+that reminds me a lot of the old world, before the era of archons in teyvat. the reference to the underworld is just a fun bonus.
 
 ### archean
 then we have the "archean" eon, which obviously brings to mind the archons of teyvat — and i think it definitely makes sense to look at this period of time in teyvat as a second "eon," following the period before the archon war. 
@@ -33,7 +33,7 @@ we're starting to get more and more hints about teyvat's ocean — i definit
 ## ok so what does it mean?
 i don't know why they chose the goblet, specifically, as a symbol of eonothems. maybe it's linked to the [tarot suit of cups](https://en.wikipedia.org/wiki/Suit_of_goblets), which pertains to emotions, intuition, spirituality, and water. or maybe it's referencing the [holy grail](https://en.wikipedia.org/wiki/Holy_Grail), symbolizing healing & infinite sustenance. idk! the descriptions of a lot of goblet pieces tend to be related to good, triumphant feelings, or happier times — or just times when someone was drinking.
 
-what i *do* know is the choice to call it the "goblet of eonothem" rather than the "goblet of eon" was deliberate — and the same goes for the [[content/notes/items/artifacts/sands of eon]]. these pieces represent different, but related things; while the sands go hand-in-hand with the passage of time, the goblet represents something more physical. 
+what i *do* know is the choice to call it the "goblet of eonothem" rather than the "goblet of eon" was deliberate — and the same goes for the [[sands of eon]]. these pieces represent different, but related things; while the sands go hand-in-hand with the passage of time, the goblet represents something more physical. 
 
 the different eons of teyvat are important (especially the insinuation that there is another, perhaps post-archon eon coming later) but with the goblet, we're more focused on the layer of rock that buries teyvat's histories underground. we've seen & heard of plenty of ancient civilizations by now that used to live on the surface, but are now deep underground. and it will continue to happen, because that's the nature of the world.
 

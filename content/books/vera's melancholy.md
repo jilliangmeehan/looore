@@ -10,8 +10,6 @@ tags:
 > 
 > since she’s from delphi, this meaning of “truth” might also be connected with her being an oracle. 
 
-
-
 ## volume i
 > I don't ever think the world is monotonous. It's just that interesting things happen in far away galaxies. 
 > 

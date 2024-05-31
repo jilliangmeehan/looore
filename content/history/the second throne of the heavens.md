@@ -1,9 +1,9 @@
 ---
-title: "the second throne of the heavens"
-draft: false
+title: the second throne of the heavens
+draft: true
 tags:
-- timeline
-- history
+  - timeline
+  - history
 ---
 
 - **? years after [[notes/history/the ark|the ark's opening]]**, [[the second who came]] appeared and waged war against [[notes/characters/the primordial one|the primordial one]], resulting in the destruction of the heavens and earth

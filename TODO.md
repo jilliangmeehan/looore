@@ -1,0 +1,10 @@
+- [ ] add recent notes to index page
+- [ ] write README
+- [ ] write internal instructions
+- [ ] write description for index page
+- [ ] fix broken links on all pages
+- [ ] add authors to pages
+- [ ] add "last edited" date to pages
+- [ ] make callouts
+- [ ] play with styling
+- [ ] set up custom url

@@ -10,7 +10,7 @@ childe rowland is a [fairy tale](https://en.wikipedia.org/wiki/Childe_Rowland?us
 shakespeare references the character with a line in king lear — *"Childe Rowland to the dark tower came"* — which then inspired the robert browning poem, "[childe roland to the dark tower came](https://fivers.typepad.com/files/childe-roland-to-the-dark-tower-came.pdf)." 
 
 ## synopsis
-in the original fairy tale, childe rowland's younger sister goes missing after walking around the church in the opposite way of the [[content/notes/reference/motifs/sun|sun]] to look for their lost ball. he and his brothers go to merlin (yeah, that merlin) to ask if he knew where she was — to which merlin replies:
+in the original fairy tale, childe rowland's younger sister goes missing after walking around the church in the opposite way of the [[sun|sun]] to look for their lost ball. he and his brothers go to merlin (yeah, that merlin) to ask if he knew where she was — to which merlin replies:
 
 > She is now in the Dark Tower of the King of [Elfland](https://en.wikipedia.org/w/index.php?title=%C3%81lfheimr&useskin=vector); it would take the boldest knight in Christendom to bring her back.
 
@@ -26,9 +26,9 @@ he eventually finds his sister in elfland, who tells him that their two other br
 at that moment, the elf king comes in with the classic *"fee, fi, fo, fum"* and childe rowland fights him for the lives of his siblings. he wins, and agrees to spare the king's life if he lets his brothers and sister leave unharmed — and then all is well.
 
 ## thoughts
-obviously, this story loosely makes me think of [[notes/characters/playable/childe|childe]] falling into the [[content/notes/places/abyss|abyss]] and barely making it out alive. the dark tower itself reminds me of [[content/notes/places/khaenriah|khaenri'ah]] and the [three realms gateway offering](https://genshin-impact.fandom.com/wiki/Three_Realms_Gateway_Offering) event in [[notes/places/enkanomiya|enkanomiya]]. 
+obviously, this story loosely makes me think of [[childe|childe]] falling into the abyss and barely making it out alive. the dark tower itself reminds me of khaenri'ah and the [three realms gateway offering](https://genshin-impact.fandom.com/wiki/Three_Realms_Gateway_Offering) event in enkanomiya. 
 
-the idea of a "dark tower" being found in the [[notes/places/realms|light realm]] is so interesting to me — especially if you *do* relate it to the abyss or khaenri'ah. definitely fits with the whole **light vs. dark =/= good vs. evil** theme throughout genshin.
+the idea of a "dark tower" being found in the light realm is so interesting to me — especially if you *do* relate it to the abyss or khaenri'ah. definitely fits with the whole **light vs. dark =/= good vs. evil** theme throughout genshin.
 
 the other thing this fairy tale reminds me of is the [gnostic chorus](https://www.youtube.com/watch?v=E0pkwZVL_GQ) story from the battle pass: the crowned heir being deceived while looking for the genesis pearl in the kingdom of darkness, and the second crowned heir following them to *"take up the path where the first had stumbled."*
 
