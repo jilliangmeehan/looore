@@ -1,12 +1,18 @@
 ---
-title: welcome!
+title: Open the door...
+author:
+  - jillian
+  - laura
 ---
-## what is this?
-this is a little personal project we’re working on to keep track of our notes & thoughts about lore in genshin impact. it’s not a wiki, it’s not perfect or comprehensive, and it’s very much a constant work in progress.
-## why?
-genshin impact lore is really cool & interesting — there are so many themes, so many [motifs](https://teyvatlore.garden/tags/motifs/), so many [references](https://teyvatlore.garden/tags/reference/) & allusions. it’s hard to keep it all straight without feeling a little nuts.
+> The most difficult part of writing a travel journal is coming up with the beginning.[^1]
 
-we’ve been making lots of haphazard notes and sending incomprehensible discord messages to each other about it all for a long time. we wanted to start keeping better track of it all in a way that’s both easy to edit & easy to share.
-## start here
-- [[artifacts]]
-- [[childe]]
+Welcome to our little Genshin Impact travel journal — this is where we ([Jillian](https://ooolong.netlify.app/) & Laura) have started keeping track of all our haphazard notes and thoughts about Genshin lore. If none of it makes any sense at all, that's fine. It's not a Wiki, it's not meant to be perfect or comprehensive, and it's very much a constant work in progress. 
+
+
+> [!Jillian]
+> it's a little empty around here at the moment while we figure out what we're doing. pls excuse the mess. we are just two girls.
+
+## Why?
+Genshin Impact lore is really cool & interesting — there are so many themes, so many motifs, so many references. It's hard to keep it all straight without feeling a little nuts. We've been sending incomprehensible Discord messages to each other about it all for a long time, and we wanted to start keeping better track of it all in a way that's both easy to edit & easy to share.
+
+[^1]: [Travel Notes: Catch the Wind](https://genshin-impact.fandom.com/wiki/Travel_Notes:_Catch_the_Wind)

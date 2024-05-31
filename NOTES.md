@@ -14,3 +14,14 @@
 - **post**: this is a good default for any little ramblings
 - **artifact**: posts about artifact sets
 - **book**: posts about in-game books
+- **video**: posts about lore videos we watched
+- **character**: posts about characters
+- **history**: posts about teyvat history
+- **places**: posts about places in teyvat
+- **reference**: posts about real-world references
+- **motif**: posts about motifs / symbols
+
+## callouts
+
+> [!jillian] Jillian
+> this is what a callout looks like! these are good for adding little side-notes & additional comments. make sure you use the `[!NAME] NAME` syntax, with your name in those two spots (the callout type, and the callout title) so the callout is correctly attributed to you on the site. 
