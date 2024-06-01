@@ -7,7 +7,7 @@ tags:
 
 we don't know who the berserker is, where his homeland was, what time period he lived in, or much of what happened to him. what we *do* know is that his home was destroyed by flames, caused by a war with the gods, and it turned him into a bloodthirsty fighter. 
 
-there are a few mentions of birds — specifically [[raven|ravens]] — and bird feathers in here. also lots of stuff about [[masks]]. this story also reminds me a lot of [[childe]], his fall into the [[content/notes/places/abyss|abyss]], and the effect that it had on him. i haven't really decided what i think it all means yet, but it's cool.
+there are a few mentions of birds — specifically [[raven|ravens]] — and bird feathers in here. also lots of stuff about [[masks]]. this story also reminds me a lot of [[content/drafts/characters/playable/childe]], his fall into the [[content/notes/places/abyss|abyss]], and the effect that it had on him. i haven't really decided what i think it all means yet, but it's cool.
 
 ## [[content/notes/items/artifacts/flower of life|berserker's rose]]
 *"An exquisite flower that has been dyed red. It represents the qualities of the Berserker."*
@@ -53,7 +53,7 @@ what was "his last challenge" and why did that, specifically, make his life "des
 > 
 > The berserker sucked out the marrow of the monster's broken horn. This was how the victor drank to his success.
 
-this reminds me a lot of [[childe]]’s lore. maybe the "barren and lifeless land" was his destroyed homeland, or maybe it was the [[content/notes/places/abyss|abyss]]. maybe the giant monster he encountered was the same one childe fought (or similar). "hours, days, and years passed" also seems related to the way time is warped in the abyss — childe was there for months, but only three days had passed in teyvat. 
+this reminds me a lot of [[content/drafts/characters/playable/childe]]’s lore. maybe the "barren and lifeless land" was his destroyed homeland, or maybe it was the [[content/notes/places/abyss|abyss]]. maybe the giant monster he encountered was the same one childe fought (or similar). "hours, days, and years passed" also seems related to the way time is warped in the abyss — childe was there for months, but only three days had passed in teyvat. 
 
 returning to what i said above about the **berserker's timepiece**: he successfully defeated this monster, but could this still have been his "last challenge"? 
 

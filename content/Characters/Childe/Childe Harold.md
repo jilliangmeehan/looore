@@ -1,10 +1,15 @@
 ---
-title: childe harold's pilgrimage
-draft: true
+title: Childe Harold
+description: 
+author:
+  - jillian
+aliases: 
 tags:
+  - childe
   - reference
+draft:
 ---
-[childe harold's pilgrimage](https://en.wikipedia.org/wiki/Childe_Harold%27s_Pilgrimage?useskin=vector) is a narrative poem by lord byron that i think relates to [[childe|childe]]. i'm still making my way through it, so i don't have any grand analysis or anything — but i wanted to keep track of some interesting excerpts here.
+[Childe Harold's Pilgrimage](https://en.wikipedia.org/wiki/Childe_Harold%27s_Pilgrimage?useskin=vector) is a narrative poem by Lord Byron that I think relates to Childe. I'm still making my way through it, so I don't have any grand analysis or anything — but I wanted to keep track of some interesting excerpts here.
 
 ---
 
@@ -19,7 +24,7 @@ tags:
 > 
 > And e'en for change of scene would seek the shades below.
 
-wanting to leave home so badly he'd seek out the abyss. maybe the abyss was calling to him his whole life.
+Wanting to leave home so badly he'd seek out the abyss. Maybe the abyss was calling to him his whole life.
 
 ---
 
@@ -28,7 +33,7 @@ wanting to leave home so badly he'd seek out the abyss. maybe the abyss was call
 > 
 > Strange pangs would flash along Childe Harold's brow,
 > 
-> As if the [[memory|memory]] of some deadly feud
+> As if the memory of some deadly feud
 > 
 > Or disappointed passion lurked below:
 > 
@@ -42,7 +47,7 @@ wanting to leave home so badly he'd seek out the abyss. maybe the abyss was call
 > 
 > Whate'er this grief mote be, which he could not control.”
 
-foul legacy & the traces of the abyss lurking inside him.
+Foul Legacy & the traces of the abyss lurking inside him.
 
 ---
 
@@ -55,7 +60,7 @@ foul legacy & the traces of the abyss lurking inside him.
 > 
 > When none will sigh for me?
 
-childe harold has set out on the sea and is wishing his homeland goodnight. one fundamental difference between childe harold and our childe is that our childe *knows* he is loved and missed by his family, whereas childe harold fears that he's not leaving behind anyone who cares about him.
+Childe Harold has set out on the sea and is wishing his homeland goodnight. One fundamental difference between Childe Harold and our Childe is that our Childe *knows* he is loved and missed by his family (I hope), whereas Childe Harold fears that he's not leaving behind anyone who cares about him.
 
 ---
 
@@ -64,7 +69,7 @@ childe harold has set out on the sea and is wishing his homeland goodnight. one 
 > 
 > But as he gazed on Truth, his aching eyes grew dim.
 
-this seems to basically be about childe harold traveling around and contemplating what he sees in other nations. 
+This seems to basically be about Childe Harold traveling around and contemplating what he sees in other nations.
 
 ---
 
@@ -87,7 +92,7 @@ this seems to basically be about childe harold traveling around and contemplatin
 > 
 > And glides with glassy foot o'er yon melodious wave.
 
-here, he's talking about mount parnassus. (truly nothing to say about this, just thought it was a cool passage.)
+Here, he's talking about Mount Parnassus. (Truly nothing to say about this, just thought it was a cool passage.)
 
 ---
 
@@ -110,7 +115,7 @@ here, he's talking about mount parnassus. (truly nothing to say about this, just
 > 
 > Some bitter o'er the flowers its bubbling venom flings.
 
-i can barely decipher what this means, but i do know the [river lethe](https://en.wikipedia.org/wiki/Lethe?useskin=vector): the river of forgetfulness in the greek underworld. drinking from the river causes complete forgetfulness — apparently shades of the dead were required to drink from the river and leave their memories behind in order to be reincarnated.
+I can barely decipher what this means, but I do know the [River Lethe](https://en.wikipedia.org/wiki/Lethe?useskin=vector): the river of forgetfulness in the Greek underworld. Drinking from the river causes complete forgetfulness — apparently shades of the dead were required to drink from the river and leave their memories behind in order to be reincarnated.
 
 ---
 
@@ -139,7 +144,7 @@ i can barely decipher what this means, but i do know the [river lethe](https://e
 > 
 > Thine eyes have scarce a charm for me.
 
-what's his secret? he's tired.
+What's his secret? He's tired.
 
 ---
 
@@ -162,7 +167,7 @@ what's his secret? he's tired.
 > 
 > Till on some jocund morn—lo, land! and all is well.
 
-it's really not very similar at all, but this passage reminds me so much of the polar star weapon description for some reason:
+It's not really very similar at all, but this passage reminds me so much of the Polar Star weapon description for some reason:
 
 > Oft have we walked in the moonless night.
 > 
@@ -174,7 +179,7 @@ it's really not very similar at all, but this passage reminds me so much of the 
 > 
 > But the pale flame yet burns in our breasts.
 
-the key difference being that no flame burns in childe harold's breast — so much of this poem seems to be about how unmoved he is by what he sees. the passages following this one refer to him as *“a youth so raw / Nor felt, nor feigned at least, the oft-told flames”* and describe his heart as *"seeming marble ... Now masked by silence or withheld by pride."* 
+The key difference being that no flame burns in Childe Harold's breast — so much of this poem seems to be about how unmoved he is by what he sees. The passages following this one refer to him as *"a youth so raw / Nor felt, nor feigned at least, the oft-told flames"* and describe his heart as *"seeming marble ... Now masked by silence or withheld by pride."*
 
 ---
 
@@ -197,7 +202,7 @@ the key difference being that no flame burns in childe harold's breast — s
 > 
 > Beat back keen winter's blast; and welcomed summer's heat.
 
-this dude is so sagittarius-coded. another major difference from our childe, lol.
+This dude is so Sagittarius-coded. Another major difference from our Childe, lol.
 
 ---
 
@@ -208,7 +213,7 @@ this dude is so sagittarius-coded. another major difference from our childe, lol
 > 
 > So that no wonder waits him;
 
-this stuck out to me — young ajax falling into the abyss, unaffected by time, aging not in days or months or years but in experience. he *did* pierce the depths of life, kind of literally.
+This stuck out to me — young Ajax falling into the abyss, unaffected by time, aging not in days or months or years but in experience. He *did* pierce the depths of life, kind of literally.
 
 ---
 
@@ -227,9 +232,10 @@ this stuck out to me — young ajax falling into the abyss, unaffected by ti
 > 
 > And life's enchanted cup but sparkles near the brim.
 
-this, again, feels reminiscent of childe's trip to the abyss & his foul legacy transformation.
+This, again, feels reminiscent of Childe's trip to the abyss & his Foul Legacy transformation.
 
-immediately continuing from there, in **ix:**
+Immediately continuing from there, in **ix**:
+
 > His had been quaffed too quickly, and he found
 > 
 > The dregs were wormwood; but he filled again,
@@ -248,16 +254,16 @@ immediately continuing from there, in **ix:**
 > 
 > Entering with every step he took through many a scene.
 
-this reminds me of the vessels of wine being refilled in [[the morn a thousand roses brings|the morn a thousand roses brings]]. also thinking about the foul legacy transformation slowly eroding his body & soul every time he uses it — healing himself in vain.
+This reminds me of the vessels of wine being refilled in The Morn a Thousand Roses Brings. Also thinking about the Foul Legacy transformation slowly eroding his body & soul every time he uses it — healing himself in vain.
 
 ---
 
 **canto the third, xi:**
-> But who can view the ripened [[rose|rose]], nor seek
+> But who can view the ripened rose, nor seek
 > 
 > To wear it?
 
-would love to know what this means.
+Would love to know what this means.
 
 ---
 
@@ -280,7 +286,7 @@ would love to know what this means.
 > 
 > For nature's pages glassed by sunbeams on the lake.
 
-this + the passage preceding it are about finding contentment and companionship with nature in solitude, rather than with other people. another form of loneliness and self-imposed exile, i think — and, in fact, a few stanzas later it says *“Self-exiled Harold wanders forth again.”*
+This + the passage preceding it are about finding contentment and companionship with nature in solitude, rather than with other people. Another form of loneliness and self-imposed exile, I think — and, in fact, a few stanzas later it says, *"Self-exiled Harold wanders forth again.*
 
 ---
 
@@ -299,11 +305,11 @@ this + the passage preceding it are about finding contentment and companionship 
 > 
 > The bars survive the captive they enthral;
 > 
-> The day drags through though storms keep out the [[sun|sun]];
+> The day drags through though storms keep out the sun;
 > 
 > And thus the heart will break, yet brokenly live on:
 
-this is one of my favorite stanzas. i just think it's beautiful — and it also feels fitting within the context of genshin. we see ruins of forgotten civilizations all the time, fragments of eroded memories lost to time. we know this cycle will continue. and thus the heart will break, yet brokenly live on!!!
+This is one of my favorite stanzas. I just think it's beautiful — and it also feels fitting within the context of Genshin. We see ruins of forgotten civilizations all the time; fragments of eroded memories lost to time. We know this cycle will continue. And thus the heart with break, yet brokenly live on!!!
 
 ---
 
@@ -316,7 +322,7 @@ this is one of my favorite stanzas. i just think it's beautiful — and it a
 > 
 > The same, and still the more, the more it breaks;
 
-just another very cool passage that i love.
+Just another very cool passage that I love.
 
 ---
 
@@ -339,4 +345,4 @@ just another very cool passage that i love.
 > 
 > That fortune, fame, power, life, have named themselves a star.
 
-a bit about the stars, and destiny.
+A bit about the stars and destiny.
