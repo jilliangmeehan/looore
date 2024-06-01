@@ -22,16 +22,27 @@ Mostly what's got me thinking about this, aside from the fact that we've seen so
 
 Lyrics:
 > **Arataki Itto:** Raven, took an arrow to the heart
+> 
 > **Arataki Itto:** And the bake-danuki, shapeshifted into dark
+> 
 > **Paimon:** I, Weasel Thief, hereby bequeath all my Mora
+> 
 > **Paimon:** Two hundred goes to my pa
+> 
 > **Arataki Itto:** Three hundred to dear mama
+> 
 > **Arataki Itto:** Poor little General Crab, only a shell remains
+> 
 > **Paimon:** Unagi goodbye
+> 
 > **Paimon:** Now rest in peace, please don't cry
+> 
 > **Arataki Itto:** Cause we'll get reborn as a beetle next time
+> 
 > **Paimon:** Onikabuto, raise your horns
+> 
 > **Arataki Itto:** Here's to a world beyond the storm
+> 
 > **Arataki Itto and Paimon:** Of rosy skies
 
 The title of the song, "[I Got Reincarnated as an Onikabuto... And Flipped the World Upside Down](https://genshin-impact.fandom.com/wiki/%22I_Got_Reincarnated_as_an_Onikabuto..._And_Flipped_the_World_Upside_Down%22)," is a reference to "[Shogun Almighty: Reborn as Raiden With Unlimited Power](https://genshin-impact.fandom.com/wiki/Shogun_Almighty:_Reborn_as_Raiden_With_Unlimited_Power)." That alone tells me that Onikabuto probably represents the Raiden Shogun.
