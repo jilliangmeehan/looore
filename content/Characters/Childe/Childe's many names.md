@@ -60,7 +60,7 @@ The final lines of the play, spoken by the chorus, are:
 ### Childe
 *Childe* is a term for a "young lord" who has not yet achieved knighthood. If we just leave it there, it does make sense. He's the youngest of the Harbingers, with the most to prove.
 
-I think there are a few other sources of inspiration for Childe's title, though. One of them is [[content/Characters/Childe/Childe Harold|Childe Harold's Pilgrimage]], a narrative poem by Lord Byron. I'm still making my way through this one, but I definitely see some of the inspiration for Childe — the way he's always traveling far away from home, never quite satisfied. The way he's lonely.
+I think there are a few other sources of inspiration for Childe's title, though. One of them is [[Childe Harold|Childe Harold's Pilgrimage]], a narrative poem by Lord Byron. I'm still making my way through this one, but I definitely see some of the inspiration for Childe — the way he's always traveling far away from home, never quite satisfied. The way he's lonely.
 
 I also came across a fairy tale called [[Childe Rowland]], which inspired Robert Browning's poem, "[Childe Rowland to the Dark Tower Came](https://fivers.typepad.com/files/childe-roland-to-the-dark-tower-came.pdf)." The story of Childe Rowland going to the dark tower reminds me somewhat of Childe falling into the abyss as a kid.
 
