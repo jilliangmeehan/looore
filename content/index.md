@@ -24,7 +24,7 @@ If you're on desktop, you might see a handy little "Explorer" in the left sideba
 | File                                                                     | Recently updated |
 | ------------------------------------------------------------------------ | ---------------- |
 | [[The Little Witch and the Undying Fire]]                                | June 03, 2024    |
-| [[content/Books/The Boar Princess\|The Boar Princess]]                   | June 03, 2024    |
+| [[The Boar Princess]]                                                    | June 03, 2024    |
 | [[Hex & Hound]]                                                          | June 03, 2024    |
 | [[Itto & Paimon\|Itto & Paimon]]                                         | June 01, 2024    |
 | [[Phanes & Nibelung are partners\|Phanes & Nibelung are partners]]       | June 01, 2024    |
