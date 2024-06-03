@@ -6,7 +6,8 @@ author:
 aliases: 
 tags:
   - book
-draft:
+draft: 
+publish: true
 ---
 ## Volume I
 > A fairytale story that has been told throughout Teyvat for ages. This is part one, which tells the story of the Land of Night and the Moonlight Forest.
