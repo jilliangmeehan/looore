@@ -20,7 +20,7 @@ If you're on desktop, you might see a handy little "Explorer" in the left sideba
 
 | File                                                                                              | Recently updated |
 | ------------------------------------------------------------------------------------------------- | ---------------- |
-| [[The Little Witch and the Undying Fire\|The Little Witch and the Undying Fire]] | June 03, 2024    |
+| [[./The Little Witch and the Undying Fire\|The Little Witch and the Undying Fire]] | June 03, 2024    |
 | [[Itto & Paimon\|Itto & Paimon]]                                            | June 01, 2024    |
 | [[Phanes & Nibelung are partners\|Phanes & Nibelung are partners]]            | June 01, 2024    |
 | [[Childe & Parsifal\|Childe & Parsifal]]                             | May 31, 2024     |
