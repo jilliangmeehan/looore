@@ -12,7 +12,7 @@ publish: true
 ## Notes
 I think Perroux is Pierro (the names sound so similar, and it sounds like he did have sort of a lower position in Khaenri'ah) — and this story is about him helping King Irmin's daughter, the Tsaritsa, escape.
 
-I don't know who she married, and I don't know who the Feline Firm are, and I don't really know why any of this would be happening or how it fits in with the rest of the story. But it *does* remind me a lot of [Lynette's hangout](https://genshin-impact.fandom.com/wiki/Detectives), which I *also* think is about Pierro smuggling the Tsaritsa out of Khaenri'ah — more on that [[./Lynette's hangout is about Pierro|here]].
+I don't know who she married, and I don't know who the Feline Firm are, and I don't really know why any of this would be happening or how it fits in with the rest of the story. But it *does* remind me a lot of [Lynette's hangout](https://genshin-impact.fandom.com/wiki/Detectives), which I *also* think is about Pierro smuggling the Tsaritsa out of Khaenri'ah — more on that [[Lynette's hangout is about Pierro|here]].
 ## Contents
 ### Volume I
 > One day, the mysterious Feline Firm sends an invitation to the doorman Perroux... Just what kind of adventures await him?
@@ -150,7 +150,7 @@ A new invitation was sent, this one to the Master:
 "Master Baron, long have we heard of your esteemed cat. I also have a valuable and exotic cat, and hope that we may bond over our mutually shared appreciation for the feline race. It would be my great honor if you would do me the pleasure of calling upon my home such that we might discuss such things in person. A carriage will take you and your cat there at the appointed time. — Lady von Frigga" 
 
 > [!jillian]
-> frigga — a similar name to the one found in [[./Hex & Hound|Hex & Hound]], and also the name of odin's wife. 
+> frigga — a similar name to the one found in [[Hex & Hound]], and also the name of odin's wife. 
 
 Thanks to Perroux's guidance, the calico carefully corrected the typos.
 

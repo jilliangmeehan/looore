@@ -77,7 +77,7 @@ No matter how many times Dietrich leaped in front of the mirror, or how many tim
 "Allow me introduce myself again. I am Nottfriga, but perhaps you're more familiar with my nickname. People call me the Enchantress of the Night." As she spoke, her long golden hair began to gradually darken, eventually turning black as the night sky outside the window. Her once sky-blue eyes were now pitch-black, ushering in the darkness of night.
 
 > [!jillian]
-> okay so this is where i go nuts about her name. [frigga](https://en.wikipedia.org/wiki/Frigg?useskin=vector) is a major norse goddess, married to odin. the name frigga (*not* "nottfriga") is also mentioned in the feline firm. probably the same person. the fact that dietrich wanted to train her like his mother's "kitty" also definitely makes me think there's a relation there.
+> okay so this is where i go nuts about her name. [frigga](https://en.wikipedia.org/wiki/Frigg?useskin=vector) is a major norse goddess, married to odin. the name frigga (*not* "nottfriga") is also mentioned in [[The Feline Firm]]. probably the same person. the fact that dietrich wanted to train her like his mother's "kitty" also definitely makes me think there's a relation there.
 
 "I am your master now. Of course, I will need to train you well." Nottfriga knelt down and placed a necklace that seemingly appeared out of nowhere on the still struggling Dietrich. The necklace shrank in size until it fit perfectly around his furry neck. No matter how he thrashed his head about or clawed at it, the necklace would not budge.
 
@@ -91,7 +91,7 @@ Nottfriga glanced back at the reluctant Dietrich dawdling behind her, and curled
 Dietrich witnessed the fall of the house of Lawrence. Who knew where Mother's kitty had gone. His father, driven to distraction, and his mother, hysterical, were so close by, and yet no matter how he shouted, they did not pay him any heed.
 
 > [!jillian]
-> would be kind of insane if, in hindsight, "mother's kitty" is the cat from the feline firm, his father is irmin, and the "fall of the house of lawrence" is really about the fall of the eclipse dynasty.
+> would be kind of insane if, in hindsight, "mother's kitty" is the cat from [[The Feline Firm]], his father is irmin, and the "fall of the house of lawrence" is really about the fall of the eclipse dynasty.
 
 "Arf..." Dietrich lowered his head, but before he could speak again, the ground opened up beneath him. A pair of old crone's hands stretched out from the ground, seizing him by the neck. Then he fell, and his fall seemed not to end, till at last he crashed to earth at the feet of the old witch. Strangely, it hurt not at all.
 
