@@ -58,7 +58,7 @@ There lived but a single lone wolf pup in that place.
 ---
   
 (The childish handwriting at the bottom of the page reads: "dada, why does the little doggy have paws that don't freeze off in the cold?")
-## Volume III
+### Volume III
 > "Now and evermore shall you be bereft of hope." What fate awaits the wolf pup who bears such a cruel curse? 
 
 The pup was a carefree child who had bright blue eyes and slick gray fur. When he got angry, he looked exactly like the wolf head relief atop the Mondstadt Cathedral. But one day, when he was hunting in the forest, he ran into the evil squirrel sorcerer: Woobakwa! 
@@ -86,7 +86,7 @@ The pup wished to apologize to the squirrel, but he felt his throat tighten and 
 ---
   
 (A sheet of paper bearing fine handwriting is taped to this page: "Lily, this is why you should eat cautiously when you're outside.")
-## Volume IV
+### Volume IV
 > The wolf pup grew up in the cold loneliness. The secret past of the lone wolf is now revealed. 
 
 No one knew just what chemical reaction occurred in the pup's stomach, but Woobakwa's curse magically came into effect!  
@@ -110,7 +110,7 @@ He decided to settle down there, and became the lone wolf that roamed the tundra
 > [!jillian]
 > yeah great question kid. where, indeed.
 
-## Volume V
+### Volume V
 > "No one deserves this fate." The good princess sheds a tear of compassion. For those who persevere as true companions, even the ice shall melt before their determination.  
 
 One day, the Boar Princess heard about the pup and was deeply saddened by his story. So she asked her people for advice on how to defrost his heart and turn him back to his former sweet self.  
@@ -128,7 +128,7 @@ When the fox and the turtle heard the Boar Princess was willing to invite them o
 ---
   
 (A handwritten note, seemingly from the young girl's father, is taped to the page: "Turtles can't make noises, no matter how hard they try. The reason Grandpa Turtle apologizes for this is just because he is very polite.")
-## Volume VI
+### Volume VI
 > The Boar Princess and her two wise companions brave an icy wasteland and scale a snowy mountain, where they discover a very mysterious inhabitant indeed...
 > 
 > See how this high-altitude, low-temperature adventure unfolds in volume six of The Boar Princess. 
@@ -180,7 +180,7 @@ Without a moment's hesitation, the Princess granted the spirit of the snowstorm 
 "Oink oink, I do declare this deal a fair one! Now, lead us to the wolf pup!"  
 
 And so, the spirit turned into an ice stream, and carried the persevering Princess over the tall mountain...
-## Volume VII
+### Volume VII
 > All the sacrifices made out in the frozen plains were not in vain. The perfect ending of friendship, love, life and death! 
 > 
 > This is the end to the famous and touching story, The Boar Princess.
