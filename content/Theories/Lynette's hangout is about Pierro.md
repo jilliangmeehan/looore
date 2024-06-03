@@ -8,6 +8,7 @@ tags:
   - lynette
   - pierro
   - fatui
+  - theory
 draft: 
 publish: true
 ---

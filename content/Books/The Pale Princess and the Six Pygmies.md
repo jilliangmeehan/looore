@@ -19,27 +19,34 @@ The Night Mother was the source of all sins, and the Land of Night was the embod
 > [!Laura] Laura
 > "Neither heart nor mouth"... tf does that mean
 
+> [!jillian]
+> i wonder if a mother being "the sources of all sins" literally means she is the mother of the sinner. maybe even many sinners.
+
 The Moonlight Forest was the only place free from the rule of the Night Mother. Only there could the people bask in the bright moonlight and enjoy the grace it brought to the living. Everyone in the Kingdom of the Moonlight Forest was born with fair skin, light-colored hair, and bright blue eyes. Perhaps the constant lack of sunlight and the nourishment of the moonlight was the reason for their beauty, giving them an appearance different from the abhorrent creatures lurking at the edge of the forest.
 
 > [!Laura] Laura
 > Ok so obviously it feels like Land of Night = abyss here. Moonlight Forest can be a number of things tbh, but the easiest stand-in (and the popular theory, I think?) is Khaenri'ah, especially since this book was something an abyss mage was hiding and said was holding a "secret" of the Abyss Order's. 
 > 
 > The only reason I'm not entirely convinced is that the description of "fair skin" and "light-colored hair" is giving me more Seelies and their whole vibes, especially since we know that not all Khaenri'ahns actually for-real have fair skin and light-colored hair, but they could just be using this as an oversimplified way to indicate there being a different sort of "race" here and I could just be overthinking it. Or maybe this just could fit for both. Bc like, I guess it does. Time is cyclical. Etc etc.
+
+> [!jillian]
+> light colored hair and blue eyes reminds me of magdalene from [[Hex & Hound]]. also dainsleif, i guess. and kiana kaslana when she has blue eyes — she's not *blonde* though, like the other two.
 ## Volume II
 > A fairytale story that has been told throughout Teyvat for ages. This installment tells of the meeting of the Pale Princess and the Light Prince.
 
-The monarch of this kingdom was a beautiful princess with skin as white as snow. Just like the [[notes/reference/motifs/moon|moon]], she had the brightest skin, the purest eyes, and the kindest soul. People of the kingdom all vowed their loyalty to her and referred to her as The Pale Princess. 
+The monarch of this kingdom was a beautiful princess with skin as white as snow. Just like the moon, she had the brightest skin, the purest eyes, and the kindest soul. People of the kingdom all vowed their loyalty to her and referred to her as The Pale Princess. 
 
 > [!Laura] Laura
 > Genshin tell me some Beautiful Pale Monarch with light-colored hair and skin white as snow has some variation of a "kind" or "gentle" soul One More Time i triple dog dare you
 
 The Pale Princess ruled her kingdom with kindness and gentleness. She always knew what was best for her people. Under her rule, the people of the Moonlight Forest never knew the threat of the Night Mother's wrath, and the creatures lurking in the dark never dared to set foot in the forest. 
 
-However, the Princess had her own troubles. To her, the silvery [[notes/reference/motifs/moon|moon]] hanging in the night sky seemed like a tiny hole through which the light could pass, and she felt that by following the light back to its source one could almost see the world on the other side. Just like all other people, the Pale Princess would often sit on the stone plate in front of the palace, imagining a world beyond the moonlight.  
+However, the Princess had her own troubles. To her, the silvery moon hanging in the night sky seemed like a tiny hole through which the light could pass, and she felt that by following the light back to its source one could almost see the world on the other side. Just like all other people, the Pale Princess would often sit on the stone plate in front of the palace, imagining a world beyond the moonlight.  
+
 "Will I be able to bring my people there one day?" The Princess thought to herself. 
 
 > [!Laura] Laura
-> I always found this part so interesting— "The silvery [[notes/reference/motifs/moon|moon]] hanging in the night sky seemed like a tiny hole through which the light could pass, and she felt that by following the light back to its source one could almost see the world on the other side." Doesn't that kind of sound like a hole in a cave or something shining light into it?
+> I always found this part so interesting— "The silvery moon hanging in the night sky seemed like a tiny hole through which the light could pass, and she felt that by following the light back to its source one could almost see the world on the other side." Doesn't that kind of sound like a hole in a cave or something shining light into it?
 
 "You will."  
 
@@ -59,9 +66,12 @@ He had come to save them. He would eventually save her from the darkness and tak
 > [!Laura] Laura
 > Wahhhhhhh what is it with princesses with (admittedly in this case somewhat vague) prophetic gifts befriending outlanders what feels like mere moments before their nations' fall? The outlanders always seem to promise some kind of salvation, but are they really just heralding its ruin...
 
+> [!jillian]
+> I'M SAYING. it all goes back to sal vindagnyr, every time.
+
 So, she asked.  
 
-"What's the world like on the other side of the [[notes/reference/motifs/moon|moon]]?"  
+"What's the world like on the other side of the moon?"  
 
 The Prince had already told her about the Kingdom of Light hundreds of times before, but at that moment, the Prince realized that she was determined to find out for herself.  
 
@@ -101,7 +111,14 @@ On hearing this, the pygmies were elated. To show their gratitude, they went alo
 > [!Laura] Laura
 > I still can't decide if I like the Archons as the Pygmies? There's the theory that the pale princess = Tsaritsa and that's why there's six. There's also the possibility that Focalors destroying her archon seat etc etc. Idk. *Who* the pygmies are is honestly what I have the least thoughts on.
 > 
-> But. I absolutely have to bring up Ballad of the Fjords story: "He and Snegurochka once fell in love, yet lost each other due to the wicked tricks of the changelings — a truly tragic tale." Pygmies = changelings????? Yay, nay??? Am I insane?????????????? Especially since I highkey think the Prince of Light = Third Descender and I lower-key think third descender might = Ajax.
+> But. I absolutely have to bring up Ballad of the Fjords story: "He and Snegurochka once fell in love, yet lost each other due to the wicked tricks of the changelings — a truly tragic tale." Pygmies = changelings????? Yay, nay??? Am I insane?????????????? Especially since I highkey think the Prince of Light = Third Descender and I lower-key think [[Ajax might be the third descender|third descender might = Ajax]].
+
+> [!jillian]
+> i honestly have no idea, but i will say that i don't think it makes much sense for venti and zhongli to be pygmies saved by the tsaritsa unless there is some truly bonkers shit going on with her. but putting that aside, i do think portraying the archons as secretly corrupt is neat and i wouldn't be surprised by it. AND having six of them instead of the usual seven dwarves is really pointed.
+> 
+> ballad of the fjords is compelling tho for sure — if *that's* true then the pygmies obviously can't be the archons, since the archons were not archon-ing while the third descender was still alive. 
+> 
+> other guesses i've had for the prince of light that i don't really think are accurate now: second crowned heir from the gnostic chorus, dainsleif, unnamed prince of khaenri'ah.
 
 ## Volume V
 > A fairytale story that has been told throughout Teyvat for ages. In this installment, the Six Pygmies' sinister scheme starts to unfold.
@@ -120,6 +137,9 @@ The foolish pygmy gently patted his scabies-ridden head and gulped the light-fil
 > [!Laura] Laura
 >"Use him to make us smarter" Like how the corpse of the third descender was used to make the *gnosis* aka knowledge. Like................ i'm cooking...
 
+> [!jillian]
+> okay yeah that does check out. the prince of light being the third descender makes a lot of sense — now i just wonder how he *got* here, and why he came. 
+
 The timid pygmy swung his tiny fists in the air and yelled.  
 
 "All that rascal did was save our lives and now he acts so condescendingly, treating us like servants. I shall challenge him to a duel!"  
@@ -128,9 +148,8 @@ The shrunken pygmy squinted in disdain. His complexion wrinkled up like a piece 
 
 "Brothers, you have been hiding in the shadows for too long. The darkness has clouded your judgment. It is new life that we need in order to survive. I say we use the corpse of the Prince as fertilizer so my garden might flourish again."  
 
-
 > [!Jillian] Jillian
-> fertilizer impact
+> [[fertilizer impact]]
 
 The carefree pygmy sighed and looked sullen.  
 
@@ -141,8 +160,13 @@ There was one pygmy who did not join the discussion. This is not because he was 
 > [!Laura] Laura
 > Like I just dont know why this pygmy gives me Dain vibes lmao. Like. Ok. The timeline is incredibly wack and if this is indeed the third descender there is literally no way it *can* be Dain but do you get what I mean. "Pygmies" also just has such dwarf energy. 
 
+> [!jillian]
+> it's the guilt. yeah, i can definitely see how this one gives dainsleif vibes.
+
 Nevertheless, the guilt could not completely suppress his corrupt nature and the pygmies all agreed to the scheme. They decided to poison the Prince's water.
 
+> [!jillian] 
+> poisoning the water goes hand-in-hand with [[fertilizer impact]] btw
 ## Volume VI
 > A fairytale story that has been told throughout Teyvat for ages. This installment tells of how the Six Pygmies managed to implement their nefarious plot.
 
@@ -150,17 +174,16 @@ At that moment, the Pale Princess was in a deep slumber and had not an inkling o
 
 The poison had sent the Prince into a coma as the Pale Princess slept. The six pygmies' scheme started to unfold.  
 
-In her sleep, the Princess had no idea how the Prince was being tortured. In her dream, her lover's body glowed with luminous colors and light scattered gently like satin. The sweet sunlight finally broke through the dark clouds and sprinkled on the living. The orange glow of the setting [[notes/reference/motifs/sun|sun]] painted a layer of caramel on the blue lake, making the water as sweet as nectar. New colors were painted on the black hills and the ruined city was turned into a candy castle. However, when the Princess called the Prince by name, all she heard in reply were indistinguishable words.  
-
+In her sleep, the Princess had no idea how the Prince was being tortured. In her dream, her lover's body glowed with luminous colors and light scattered gently like satin. The sweet sunlight finally broke through the dark clouds and sprinkled on the living. The orange glow of the setting sun painted a layer of caramel on the blue lake, making the water as sweet as nectar. New colors were painted on the black hills and the ruined city was turned into a candy castle. However, when the Princess called the Prince by name, all she heard in reply were indistinguishable words.  
 
 > [!Jillian] Jillian
 > could the teyvat we know be in a dream? and the ruined version is the real version?
-
+> 
+> **edit:** i wrote that note so long ago — way before the book of revealing and all that. hilarious.
 
 The poor Princess had no idea that the Prince could no longer respond to her calling.  
 
 Lightning flashed and thunder echoed in the silent night sky. The six pygmies carried out their scheme successfully. To celebrate, they set up a huge pot and cooked a pot of thick soup with moss and poisonous mushrooms. But just as the culprits were enjoying their feast, the Prince's broken soul used up all its remaining power to curse the pygmies. For the rest of their lives, they were tormented by a curse that made them feel as if they were being cooked in a huge cooking pot, unable to ever see the light of day again.  
-
 
 > [!Jillian] Jillian
 > yeah that curse sounds about right
@@ -170,34 +193,26 @@ Lightning flashed and thunder echoed in the silent night sky. The six pygmies ca
 
 However, during the celebration, one of the pygmies wrapped the Prince in the dirty tablecloth, intent on carrying him back to the dark forest to seek help from the Princess, hoping to wake him up. No one knows if this was out of a lingering sense of loyalty to the Princess, or simply born of his fear of the curse.
 
+> [!jillian]
+> this is where i start getting really confused about the prince of light being the third descender — we have conflicting ideas about the gnoses being his literal corpse vs being parts of his broken soul, and the gnoses being created after his death by the first + second descenders vs him being a willing participant and putting this curse on them.
+
 ## Volume VII
 > A fairytale story that has been told throughout Teyvat for ages. The final installment brings everything to a conclusion, and includes the Night Mother's prophecy.
 
 This pygmy spirited the Prince's body away from his wicked brethren, plunging into the damp bushes. Following animal tracks, he searched for the Fountain of Purity where the Pale Princess slept.  
-
-
-> [!Jillian] Jillian
-> FOUNTAIN OF PURITY
-
   
 What the pygmy didn't know is that the vicious Night Mother had already found the Princess. She followed the pygmy stealthily, like a wild cat stalking its prey, her shadowy figure blotting out the moonlight and starlight.  
 
 When the pygmy arrived, the Princess was already gone. The sorrowful howl of a night owl was heard as the Night Mother arose from the now-corrupt fountain. 
 
-
-> [!Jillian] Jillian
-> could the princess be the goddess of flowers?
-
-
-"Pitiful creature, are you here to see your master?" The vile smirk of the Night Mother exuded the breath of the [[notes/places/abyss|abyss]].  
+"Pitiful creature, are you here to see your master?" The vile smirk of the Night Mother exuded the breath of the abyss.  
 
 "If so, I'm afraid all you will find here is despair, you sad little thing."  
 
 "That foolish princess is now in chains. I destroyed the Moonlight Kingdom and cursed her people before her eyes. They will be in an undead state, lingering at the point between life and death forevermore. No soul and no moonlight." The words of the Night Mother landed like cold raindrops on a forgotten tomb.  
 
-
 > [!Jillian] Jillian
-> hmmm yeah that sure does sound like what’s happening in teyvat lol
+> that does sorta sound like what's happening in teyvat — or even just to the people of khaenri'ah.
 
 > [!Laura] Laura
 > Also just sounds like 100% what happened to the Seelies, right? But like. What does the Night Mother want with the Princess anyway lol
@@ -210,9 +225,10 @@ The Night Mother left the pygmy to wallow in grief. But first — whether out of
 
 "In thousands of years time, my greatest foe will descend. He wields a sword that heralds the dawn and wears armor that can reflect the shining sunlight. He shall destroy my kingdom and bring the Prince back to life. The Princess will then be free from her eternal torment. Until then, I fear not a single soul in the Land of Night, for nothing will bring an end to my kingdom except for the catastrophe foretold by the prophecy. As for you, the treacherous slave that poisoned his master... fate shall see that you get what you deserve."  
 
-
 > [!Jillian] Jillian
-> much to think about here
+> much to think about here!
+> 
+> prophecy aside, this pygmy is actually starting to remind me of paimon, and the theory that she's been trying to mislead and distract the traveler this whole time to prevent them from leaving.
 
 The Night Mother then collapsed and became a pile of sludge consisting of mud and worms.  
 
