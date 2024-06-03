@@ -176,7 +176,7 @@ A long time ago, there was a witch who gave birth to twin daughters. However, wi
 Still, this solution could not last forever, and as the last of the witch's life force faded, the day of their fated farewell arrived at last. In death, the witch was finally freed from the world. 
 
 > [!jillian]
-> i wonder if this is the old witch from [[./The Little Witch and the Undying Fire|The Little Witch and the Undying Fire]], and what nottfriga inherited from her was the flame that never dies.
+> i wonder if this is the old witch from [[The Little Witch and the Undying Fire]], and what nottfriga inherited from her was the flame that never dies.
 
 The surviving elder sister, Nottfriga, inherited everything, and felt entirely responsible for the passing of her younger sister, Magdalene. Luckily for Nottfriga, she inherited the witch's talent for dark magic. Using herself as a vessel, she summoned Magdalene's soul using complicated magical symbols and obscure incantations. Then, she read all of the leather-bound books in the tower, and combining what she learned with dark magic and alchemy, created a new vessel. However, the ability to place her sister's soul inside the vessel and bring her back to life was not only a forbidden art in light magic, it was also exceptionally difficult — especially for Nottfriga, who knew no light magic whatsoever. 
 

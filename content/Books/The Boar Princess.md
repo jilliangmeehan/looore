@@ -11,7 +11,7 @@ draft:
 publish: true
 ---
 ## Notes
-This book still baffles me, but I at least know for sure now that the Boar Princess is part of the Hexenzirkel. Part of this story seems to be retold in [[./The Little Witch and the Undying Fire|The Little Witch and the Undying Fire]].
+This book still baffles me, but I at least know for sure now that the Boar Princess is part of the Hexenzirkel. Part of this story seems to be retold in [[The Little Witch and the Undying Fire]].
 
 ## Contents
 ### Volume I
@@ -53,7 +53,7 @@ Even the bravest, strongest Boar King could not withstand the frigid tundra. "Oi
 There lived but a single lone wolf pup in that place.  
 
 > [!jillian]
-> i have had so many theories over time about who the wolf pup is (pierro, varka, capitano — even childe, at one point) but none of them feel right. it doesn't help that the wolf pup isn't even mentioned in the version of this story that appears in [[./The Little Witch and the Undying Fire|The Little Witch and the Undying Fire]] — is it possible he was invented by the hexenzirkel for the story? why?
+> i have had so many theories over time about who the wolf pup is (pierro, varka, capitano — even childe, at one point) but none of them feel right. it doesn't help that the wolf pup isn't even mentioned in the version of this story that appears in [[The Little Witch and the Undying Fire]] — is it possible he was invented by the hexenzirkel for the story? why?
 
 ---
   
@@ -66,7 +66,7 @@ The pup was a carefree child who had bright blue eyes and slick gray fur. When h
 > [!jillian]
 > for the life of me i've never been able to figure out where this name came from. if anyone has any guesses please hmu.
 > 
-> i do think woobakwa might be the chipmunk demon from [[./The Little Witch and the Undying Fire|The Little Witch and the Undying Fire]] even though the details don't quite match up. they're similar enough stories that alarm bells are going off.
+> i do think woobakwa might be the chipmunk demon from [[The Little Witch and the Undying Fire]] even though the details don't quite match up. they're similar enough stories that alarm bells are going off.
 
 Of all the beings in the ancient world, none were more evil than Woobakwa — not even demons and dragons. Woobaka despised everything nice, and swore to transform beauty into ugliness and turn light into dark.  
 
@@ -186,7 +186,7 @@ And so, the spirit turned into an ice stream, and carried the persevering Prince
 > This is the end to the famous and touching story, The Boar Princess.
 
 > [!jillian]
-> there is a part in [[./The Little Witch and the Undying Fire|The Little Witch and the Undying Fire]] that mentions "life, death, love, and hatred" so this is making me a little crazy right now. swapping friendship for hatred.
+> there is a part in [[The Little Witch and the Undying Fire]] that mentions "life, death, love, and hatred" so this is making me a little crazy right now. swapping friendship for hatred.
 
 After venturing though the bitter cold and the swirling storms, the Boar Princess finally saw the pup. Covered in ice, the poor pup's once bright blue eyes had now grown dim, and he had all but forgotten how to bark.  
 
