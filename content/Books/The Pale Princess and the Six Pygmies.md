@@ -149,7 +149,7 @@ The shrunken pygmy squinted in disdain. His complexion wrinkled up like a piece 
 "Brothers, you have been hiding in the shadows for too long. The darkness has clouded your judgment. It is new life that we need in order to survive. I say we use the corpse of the Prince as fertilizer so my garden might flourish again."  
 
 > [!Jillian] Jillian
-> [[fertilizer impact]]
+> [[Fertilizer Impact]]
 
 The carefree pygmy sighed and looked sullen.  
 
@@ -166,7 +166,7 @@ There was one pygmy who did not join the discussion. This is not because he was 
 Nevertheless, the guilt could not completely suppress his corrupt nature and the pygmies all agreed to the scheme. They decided to poison the Prince's water.
 
 > [!jillian] 
-> poisoning the water goes hand-in-hand with [[fertilizer impact]] btw
+> poisoning the water goes hand-in-hand with [[Fertilizer Impact]] btw
 ## Volume VI
 > A fairytale story that has been told throughout Teyvat for ages. This installment tells of how the Six Pygmies managed to implement their nefarious plot.
 
