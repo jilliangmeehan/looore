@@ -18,16 +18,17 @@ Genshin Impact lore is really cool & interesting — there are so many theme
 ## Where to start
 If you're on desktop, you might see a handy little "Explorer" in the left sidebar, where you can browse posts by category. You can also just start searching for anything you're interested in, and some pages will probably come up. Or you can just check out our most recent posts:
 
-| File                                                                                         | Recently updated |
-| -------------------------------------------------------------------------------------------- | ---------------- |
-| [[Itto & Paimon\|Itto & Paimon]]                                       | June 01, 2024    |
-| [[Phanes & Nibelung are partners\|Phanes & Nibelung are partners]]       | June 01, 2024    |
-| [[Childe & Parsifal\|Childe & Parsifal]]                        | May 31, 2024     |
-| [[Childe Harold\|Childe Harold]]                                | May 31, 2024     |
-| [[Childe Rowland\|Childe Rowland]]                              | May 31, 2024     |
-| [[Childe's many names\|Childe's many names]]                    | May 31, 2024     |
-| [[Parsifal\|Parsifal]]                                                 | May 31, 2024     |
-| [[Ajax might be the third descender\|Ajax might be the third descender]] | May 31, 2024     |
+| File                                                                                              | Recently updated |
+| ------------------------------------------------------------------------------------------------- | ---------------- |
+| [[The Little Witch and the Undying Fire\|The Little Witch and the Undying Fire]] | June 03, 2024    |
+| [[Itto & Paimon\|Itto & Paimon]]                                            | June 01, 2024    |
+| [[Phanes & Nibelung are partners\|Phanes & Nibelung are partners]]            | June 01, 2024    |
+| [[Childe & Parsifal\|Childe & Parsifal]]                             | May 31, 2024     |
+| [[Childe Harold\|Childe Harold]]                                     | May 31, 2024     |
+| [[Childe's many names\|Childe's many names]]                         | May 31, 2024     |
+| [[Childe Rowland\|Childe Rowland]]                                   | May 31, 2024     |
+| [[Parsifal\|Parsifal]]                                                      | May 31, 2024     |
+| [[Ajax might be the third descender\|Ajax might be the third descender]]      | May 31, 2024     |
 
 
 [^1]: [Travel Notes: Catch the Wind](https://genshin-impact.fandom.com/wiki/Travel_Notes:_Catch_the_Wind)
