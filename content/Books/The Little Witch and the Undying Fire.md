@@ -8,6 +8,7 @@ tags:
   - book
   - hexenzirkel
 draft: false
+publish: true
 ---
 ## Notes
 This book leaves me with a lot of questions, but is also kind of helping me connect some more dots re: the Hexenzirkel. Most of my notes are inline, but a few things upfront as a TL;DR:
