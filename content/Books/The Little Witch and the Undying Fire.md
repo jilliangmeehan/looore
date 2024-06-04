@@ -58,6 +58,10 @@ The little witch soared upon her broom beneath the blood-green [[Moon|moon]]. Bl
 
 > [!jillian] 
 > "blood green"? 😵‍💫 if you say so. i think the [nephilim](https://en.wikipedia.org/wiki/Nephilim?useskin=vector) here is probably referring to seelies, but interesting to note that nephilim are typically giants. the seelies probably were much bigger before they withered, tho.
+> 
+> some thoughts on the green moon: if the crimson moon is a giant red eye, can the green moon be a giant green eye? (yeah i'm thinkin about fischl.) *or* maybe the green moon is just the inverse of the red moon, in this parallel witch's realm or something.
+> 
+![[CleanShot 2024-06-04 at 19.16.55@2x.png]]
 
 Anyway, so the little witch was soaring upon her broom beneath the blood-green moon, and then, she met a young lady who claimed to be a "fortune teller."
 
@@ -78,7 +82,7 @@ The fortune teller then explained the underlying principles. Put simply, it's so
 By the way, other planets refer to actual celestial bodies as an "archon" and a theorized one as a "virtual." The planet the little witch was on was no exception. You see, we also call a will that comes down from the heavens an "archon." They are normally planets that have sentient life on them, and they number seven, and therefore they are called the "seven archons." As for the virtuals, their number varies between one, two, and four. The planet the little witch was on may well have been one. And in the case of such a world, the "virtual" would be the "dark [[Sun|sun]]." 
 
 > [!jillian] 
-> the word "archon" isn't always used to refer specifically to one of the Seven, but it seems like here it is. and it also sounds like we *are* assigning each of the archons one of the [seven classical planets](https://en.wikipedia.org/wiki/Classical_planet?useskin=vector). 
+> the word "archon" isn't always used to refer specifically to one of the Seven, but it seems like here it is. and it also sounds like we *might be* assigning each of the archons one of the [seven classical planets](https://en.wikipedia.org/wiki/Classical_planet?useskin=vector). on the other hand, none of those have sentient life on them.
 > 
 > my head is swimming a bit with the "virtuals." these could be descenders — what is a "theorized celestial body"? and are we saying that the planet the witch is on *is* a "virtual" celestial body? and it *is* the dark sun? help.
 > 
@@ -102,7 +106,7 @@ In any case, for some totally unknown reason, the astrologist knew all about wit
 Under the blood-green moon, the great witches danced around the bonfire. The little witch and the young astrologist hid in the shadows of trees that grew so thick that even dense clouds couldn't compare, and even the bonfire could not illuminate them.
 
 > [!jillian]
-> i wonder if this is the "dark forest" from [[the pale princess and the six pygmies]].
+> i wonder if this is the "dark forest" from [[The Pale Princess and the Six Pygmies]].
 
 "We just need to wait till the day after the ancient, forbidden night of revelry, when the dawn light first breaks and the various great witches depart. 
 
@@ -272,7 +276,7 @@ But he could not defeat her, so that was the end of that, really.
 > 
 > think about it: the city *could* be present-day snezhnaya, before the tsaritsa became the archon there. this whole story does sound a lot like someone fighting in the archon war and becoming powerful enough to become one of the Seven. and i always kinda thought the boar princess was about the tsaritsa anyway.
 > 
-> this theory does get pretty murky tho — if *this* story is about the tsaritsa, then i don't think [[the feline firm]] can *also* be about the tsaritsa. unless this story is about the *first* cryo archon, and the feline firm is about the *current* cryo archon. (okay yeah i kinda buy that, actually)
+> this theory does get pretty murky tho — if *this* story is about the tsaritsa, then i don't think [[The Feline Firm]] can *also* be about the tsaritsa. unless this story is about the *first* cryo archon, and the feline firm is about the *current* cryo archon. (okay yeah i kinda buy that, actually)
 
 Finally, I hope everyone remembers that crystal ball, because the little witch's goals had become foggy at this stage, so she decided to take it out and have a look at it.
 
