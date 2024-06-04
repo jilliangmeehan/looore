@@ -16,7 +16,7 @@ This book leaves me with a lot of questions, but is also kind of helping me conn
 - I keep going back and forth on who I think the little witch is, but I've decided that I think the *most likely* answer is Alice
 	- I do have a secondary theory that the little witch became the cryo archon, but I'll admit that one is farfetched
 	- One reason why it might *not* be about Alice: in [The Mages' Tea Party](https://www.youtube.com/watch?v=RigK4OwCCM8), there is a section near the end where Alice mentions, "Even the most frightening witch was once a little girl." I think that's gotta be the same little witch in this story, and it seems odd that Alice would be talking about herself that way. 
-	- The little witch is also almost definitely the Boar Princess — one of the chapters here has a story that is very similar, and that same line from Alice above is accompanied a bit later with Boar Princess illustrations.
+	- The little witch is also almost definitely [[the Boar Princess]] — one of the chapters here has a story that is very similar, and that same line from Alice above is accompanied a bit later with Boar Princess illustrations.
 - Chapters of this book were written before, during, and after the Cataclysm — you can tell because of the author's notes that mention "something" happening about halfway through
 ## Contents
 ### Part I
@@ -54,7 +54,7 @@ The teacher's friends whispered to her: "Hey now, isn't that a bit much? You obv
 
 **Deep in the woods, nighttime.** 
 
-The little witch soared upon her broom beneath the blood-green moon. Blood-green was regarded as a symbol of great change in astrology, though whether such change be for good or ill cannot be determined by any result. —Actually, that shade symbolizes the dominant race of this world, the Nephilim. They were the children of gods and humans, and so their blood, too, was the conflux between the red blood of humanity and golden, divine blood. And actually-actually, the green moonlight was the result of the moon's physical composition, the distance between the planet and its moon, atmospheric scattering, and other factors.
+The little witch soared upon her broom beneath the blood-green [[moon]]. Blood-green was regarded as a symbol of great change in astrology, though whether such change be for good or ill cannot be determined by any result. —Actually, that shade symbolizes the dominant race of this world, the Nephilim. They were the children of gods and humans, and so their blood, too, was the conflux between the red blood of humanity and golden, divine blood. And actually-actually, the green moonlight was the result of the moon's physical composition, the distance between the planet and its moon, atmospheric scattering, and other factors.
 
 > [!jillian] 
 > "blood green"? 😵‍💫 if you say so. i think the [nephilim](https://en.wikipedia.org/wiki/Nephilim?useskin=vector) here is probably referring to seelies, but interesting to note that nephilim are typically giants. the seelies probably were much bigger before they withered, tho.
@@ -75,7 +75,7 @@ The fortune teller then explained the underlying principles. Put simply, it's so
 > 
 > the extra-interesting part here is all the other stuff that "exerts influence" on this planet: solar eclipse, "various lunar energies," the will of the archons, interference from distant stars, and "dark energy."
 
-By the way, other planets refer to actual celestial bodies as an "archon" and a theorized one as a "virtual." The planet the little witch was on was no exception. You see, we also call a will that comes down from the heavens an "archon." They are normally planets that have sentient life on them, and they number seven, and therefore they are called the "seven archons." As for the virtuals, their number varies between one, two, and four. The planet the little witch was on may well have been one. And in the case of such a world, the "virtual" would be the "dark sun." 
+By the way, other planets refer to actual celestial bodies as an "archon" and a theorized one as a "virtual." The planet the little witch was on was no exception. You see, we also call a will that comes down from the heavens an "archon." They are normally planets that have sentient life on them, and they number seven, and therefore they are called the "seven archons." As for the virtuals, their number varies between one, two, and four. The planet the little witch was on may well have been one. And in the case of such a world, the "virtual" would be the "dark [[sun]]." 
 
 > [!jillian] 
 > the word "archon" isn't always used to refer specifically to one of the Seven, but it seems like here it is. and it also sounds like we *are* assigning each of the archons one of the [seven classical planets](https://en.wikipedia.org/wiki/Classical_planet?useskin=vector). 
@@ -86,7 +86,7 @@ By the way, other planets refer to actual celestial bodies as an "archon" and a 
 
 Astrologists and diviners are, in essence, performing weight calculations on the sky-shroud, the cosmos, and the "archon" and "virtual" celestial bodies, before deducing individual developmental tendencies from world to world. But the relative weight of the sky-shroud over our planet is just way, way too great, and so, investigating it already allows us to obtain very precise results. As for the world the little witch and astrologist were on, they would have to go through the entire formula.
 
-After the little witch finished listening, she was very impressed by the fortune teller's learning and technique. Now they could speak of the matter of familiarhood. To be a witch's familiar was to share in her magic, and with magic, one could peer into more destinies. That said, becoming a familiar could have unforeseen side effects — it was hard to say what might happen. Yes! That's what the blood-green moon means: great change, which can't be judged as good or ill by the outcome. See how it all comes together? We didn't go off-topic!
+After the little witch finished listening, she was very impressed by the fortune teller's learning and technique. Now they could speak of the matter of familiarhood. To be a witch's familiar was to share in her magic, and with magic, one could peer into more destinies. That said, becoming a familiar could have unforeseen side effects — it was hard to say what might happen. Yes! That's what the blood-green [[moon]] means: great change, which can't be judged as good or ill by the outcome. See how it all comes together? We didn't go off-topic!
 
 "It is a shame that I am still not a great witch. I can't make you my familiar yet, " said the little witch. 
 
@@ -102,7 +102,7 @@ In any case, for some totally unknown reason, the astrologist knew all about wit
 Under the blood-green moon, the great witches danced around the bonfire. The little witch and the young astrologist hid in the shadows of trees that grew so thick that even dense clouds couldn't compare, and even the bonfire could not illuminate them.
 
 > [!jillian]
-> i wonder if this is the "dark forest" from the pale princess and the six pygmies.
+> i wonder if this is the "dark forest" from [[the pale princess and the six pygmies]].
 
 "We just need to wait till the day after the ancient, forbidden night of revelry, when the dawn light first breaks and the various great witches depart. 
 
@@ -142,7 +142,7 @@ Actually, there's a story behind this crystal ball. It—
 In her travels, the little witch encountered a group of people getting ready to kill demon kings. She decided to join them and go kill some demon kings. They told her: The more demon kings you kill, the greater your witch's power will grow. This is, in fact, true. Then, they encountered a mimic demon king. After this whole affair, the little witch would write a "Demon King-Slaying Chronicle" each time she hunted one.
 
 > [!jillian]
-> i wonder if this is about the archon war — the demon kings are all the gods in teyvat that were killed, and the ones who killed them grew more powerful. the "mimic demon king" is interesting. maybe that's one of the "virtuals," the "dark sun."
+> i wonder if this is about the archon war — the demon kings are all the gods in teyvat that were killed, and the ones who killed them grew more powerful. the "mimic demon king" is interesting. maybe that's one of the "virtuals," the "dark [[sun]]."
 
 They encountered the mimic demon king in a run-down old house. At first, no one knew what was going on, assuming that the place had just gone moldy. 
 
@@ -186,7 +186,7 @@ It was a shame. She wished she had a chance to observe more and make some more r
 Then, they encountered a chipmunk demon king, which her comrades had claimed beforehand was also a species of demon king. It was classified as belonging to the same class and superorder as a standard demon king but was part of a different grand order. 
 
 > [!jillian]
-> i'm pretty sure we're talking about the boar princess now — the chipmunk demon king should be "Woobakwa." (i know Woobakwa is a squirrel in the boar princess but i feel like that's close enough.)
+> i'm pretty sure we're talking about [[the boar princess]] now — the chipmunk demon king should be "Woobakwa." (i know Woobakwa is a squirrel in the boar princess but i feel like that's close enough.)
 
 The chipmunk demon king looked very fierce indeed, and the little witch suspected that this aggressiveness stemmed from behaviors acquired during the gestation period and while nurturing their offspring. 
 
@@ -272,7 +272,7 @@ But he could not defeat her, so that was the end of that, really.
 > 
 > think about it: the city *could* be present-day snezhnaya, before the tsaritsa became the archon there. this whole story does sound a lot like someone fighting in the archon war and becoming powerful enough to become one of the Seven. and i always kinda thought the boar princess was about the tsaritsa anyway.
 > 
-> this theory does get pretty murky tho — if *this* story is about the tsaritsa, then i don't think the feline firm can *also* be about the tsaritsa. unless this story is about the *first* cryo archon, and the feline firm is about the *current* cryo archon. (okay yeah i kinda buy that, actually)
+> this theory does get pretty murky tho — if *this* story is about the tsaritsa, then i don't think [[the feline firm]] can *also* be about the tsaritsa. unless this story is about the *first* cryo archon, and the feline firm is about the *current* cryo archon. (okay yeah i kinda buy that, actually)
 
 Finally, I hope everyone remembers that crystal ball, because the little witch's goals had become foggy at this stage, so she decided to take it out and have a look at it.
 
@@ -338,7 +338,7 @@ The little witch pulled a chair up and sat in it. "You returned so suddenly," sh
 
 "I can just sit in that old witch's chair, can't I? She's too old to get up and come sit in it nowadays." 
 
-"That's no good! That chair's hers, just as your chair's yours," the little witch argued her case earnestly with O. "To each person a chair. That way, even if they are not present, their memories will be seated still. So we absolutely can't use the wrong chairs." 
+"That's no good! That chair's hers, just as your chair's yours," the little witch argued her case earnestly with O. "To each person a chair. That way, even if they are not present, their [[memories]] will be seated still. So we absolutely can't use the wrong chairs." 
 
 > [!jillian]
 > the number of chairs and who sits in each one is important. 

@@ -7,7 +7,7 @@ tags:
 
 i've been learning a bit about [nero](https://en.wikipedia.org/wiki/Nero?useskin=vector) recently & there are just so many interesting things that remind me of both [[rex lapis]] and [[king deshret]]:
 - [the golden house](https://en.wikipedia.org/wiki/Domus_Aurea?useskin=vector) !!!
-- [[memory|damnatio memoriae]]
+- [[Memories|damnatio memoriae]]
 - seeing himself as a [[sun|sun]] god — deshret & rex lapis both lean quite heavily on the [[sun|sun]] imagery
 - the way he kinda went crazy & ended up with a horrible reputation, but was supposedly loved by his people 
 - his love for architecture & the arts

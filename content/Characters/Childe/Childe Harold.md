@@ -115,7 +115,7 @@ Here, he's talking about Mount Parnassus. (Truly nothing to say about this, just
 > 
 > Some bitter o'er the flowers its bubbling venom flings.
 
-I can barely decipher what this means, but I do know the [River Lethe](https://en.wikipedia.org/wiki/Lethe?useskin=vector): the river of forgetfulness in the Greek underworld. Drinking from the river causes complete forgetfulness — apparently shades of the dead were required to drink from the river and leave their memories behind in order to be reincarnated.
+I can barely decipher what this means, but I do know the [River Lethe](https://en.wikipedia.org/wiki/Lethe?useskin=vector): the river of forgetfulness in the Greek underworld. Drinking from the river causes complete forgetfulness — apparently shades of the dead were required to drink from the river and leave their [[memories]] behind in order to be reincarnated.
 
 ---
 
@@ -309,7 +309,7 @@ This + the passage preceding it are about finding contentment and companionship 
 > 
 > And thus the heart will break, yet brokenly live on:
 
-This is one of my favorite stanzas. I just think it's beautiful — and it also feels fitting within the context of Genshin. We see ruins of forgotten civilizations all the time; fragments of eroded memories lost to time. We know this cycle will continue. And thus the heart with break, yet brokenly live on!!!
+This is one of my favorite stanzas. I just think it's beautiful — and it also feels fitting within the context of Genshin. We see ruins of forgotten civilizations all the time; fragments of eroded [[memories]] lost to time. We know this cycle will continue. And thus the heart with break, yet brokenly live on!!!
 
 ---
 

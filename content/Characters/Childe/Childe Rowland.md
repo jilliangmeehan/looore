@@ -22,7 +22,7 @@ In the original fairy tale, Childe Rowland's younger sister goes missing after w
 > [!jillian] 
 > Elfland is the home of the [light elves](https://en.wikipedia.org/w/index.php?title=D%C3%B6kk%C3%A1lfar_and_Lj%C3%B3s%C3%A1lfar&useskin=vector) in Norse mythology, in contrast to the dark elves that live within the earth. I have no idea if this is actually the elfland being referenced here, but wikipedia seems to think it is.
 
-After his two older brothers leave to look for the dark tower & never return, Childe Harold decides to go himself. He begs his mother to let him go, and she gives him his father's sword for protection.
+After his two older brothers leave to look for the dark tower & never return, Childe Rowland decides to go himself. He begs his mother to let him go, and she gives him his father's sword for protection.
 
 Before he leaves, Merlin gives him some instructions for finding the dark tower: first, he has to use his sword to cut off the head of everyone he sees until he finds his sister; second, he can't eat or drink anything in Elfland, or he'll be stuck there forever.
 

@@ -78,7 +78,7 @@ Lohengrin is the son of Parzival, and he is "a grail knight sent in a boat pulle
 
 
 > [!jillian]
-> **Fun fact:** In one of the original Swan Knight stories, the name of the Swan Knight is Helias (sun god!).
+> **Fun fact:** In one of the original Swan Knight stories, the name of the Swan Knight is Helias ([[sun]] god!).
 
 Lohengrin's twin brother inherits their father Parzival's land while Lohengrin is sent out as a grail knight "in secret" to help kingdoms that have lost their protectors. He shows up in a kingdom without a male heir & offers to marry the duchess there and defend the kingdom, on the condition that she must never ask his name. All is good for a few years, but then she asks the question & he gets right back on his swan boat and never returns.
 
