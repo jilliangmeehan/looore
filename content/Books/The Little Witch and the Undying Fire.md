@@ -61,7 +61,8 @@ The little witch soared upon her broom beneath the blood-green [[Moon|moon]]. Bl
 > 
 > some thoughts on the green moon: if the crimson moon is a giant red eye, can the green moon be a giant green eye? (yeah i'm thinkin about fischl.) *or* maybe the green moon is just the inverse of the red moon, in this parallel witch's realm or something.
 > 
-![[CleanShot 2024-06-04 at 19.16.55@2x.png]]
+
+![[fischl.png]]
 
 Anyway, so the little witch was soaring upon her broom beneath the blood-green moon, and then, she met a young lady who claimed to be a "fortune teller."
 
