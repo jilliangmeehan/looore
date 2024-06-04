@@ -11,7 +11,7 @@
 6. push your changes to github! all done!
 
 ## tags
-- **post**: this is a good default for any little ramblings
+- **theory**: this is a good default for any little ramblings
 - **artifact**: posts about artifact sets
 - **book**: posts about in-game books
 - **video**: posts about lore videos we watched
@@ -21,6 +21,7 @@
 - **reference**: posts about real-world references
 - **motif**: posts about motifs / symbols
 
+feel free to use more specific tags, too — character names, place names, whatever feels right to you. tags should be useful for finding any related info you're searching for. as far as categorization goes, the folders in the sidebar are more important.
 ## callouts
 
 > [!jillian] Jillian
