@@ -16,7 +16,7 @@ This book leaves me with a lot of questions, but is also kind of helping me conn
 - I keep going back and forth on who I think the little witch is, but I've decided that I think the *most likely* answer is Alice
 	- I do have a secondary theory that the little witch became the cryo archon, but I'll admit that one is farfetched
 	- One reason why it might *not* be about Alice: in [The Mages' Tea Party](https://www.youtube.com/watch?v=RigK4OwCCM8), there is a section near the end where Alice mentions, "Even the most frightening witch was once a little girl." I think that's gotta be the same little witch in this story, and it seems odd that Alice would be talking about herself that way. 
-	- The little witch is also almost definitely [[the Boar Princess]] — one of the chapters here has a story that is very similar, and that same line from Alice above is accompanied a bit later with Boar Princess illustrations.
+	- The little witch is also almost definitely [[The Boar Princess|the Boar Princess]]— one of the chapters here has a story that is very similar, and that same line from Alice above is accompanied a bit later with Boar Princess illustrations.
 - Chapters of this book were written before, during, and after the Cataclysm — you can tell because of the author's notes that mention "something" happening about halfway through
 ## Contents
 ### Part I
@@ -190,7 +190,7 @@ It was a shame. She wished she had a chance to observe more and make some more r
 Then, they encountered a chipmunk demon king, which her comrades had claimed beforehand was also a species of demon king. It was classified as belonging to the same class and superorder as a standard demon king but was part of a different grand order. 
 
 > [!jillian]
-> i'm pretty sure we're talking about [[the boar princess]] now — the chipmunk demon king should be "Woobakwa." (i know Woobakwa is a squirrel in the boar princess but i feel like that's close enough.)
+> i'm pretty sure we're talking about [[The Boar Princess|the boar princess]] now — the chipmunk demon king should be "Woobakwa." (i know Woobakwa is a squirrel in the boar princess but i feel like that's close enough.)
 
 The chipmunk demon king looked very fierce indeed, and the little witch suspected that this aggressiveness stemmed from behaviors acquired during the gestation period and while nurturing their offspring. 
 
