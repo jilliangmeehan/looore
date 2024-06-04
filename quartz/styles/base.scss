@@ -353,6 +353,7 @@ pre {
 
   &:has(> code.mermaid) {
     border: none;
+    font-family: var(--codeFont);
   }
 
   & > code {
