@@ -54,7 +54,7 @@ The teacher's friends whispered to her: "Hey now, isn't that a bit much? You obv
 
 **Deep in the woods, nighttime.** 
 
-The little witch soared upon her broom beneath the blood-green [[moon]]. Blood-green was regarded as a symbol of great change in astrology, though whether such change be for good or ill cannot be determined by any result. —Actually, that shade symbolizes the dominant race of this world, the Nephilim. They were the children of gods and humans, and so their blood, too, was the conflux between the red blood of humanity and golden, divine blood. And actually-actually, the green moonlight was the result of the moon's physical composition, the distance between the planet and its moon, atmospheric scattering, and other factors.
+The little witch soared upon her broom beneath the blood-green [[Moon|moon]]. Blood-green was regarded as a symbol of great change in astrology, though whether such change be for good or ill cannot be determined by any result. —Actually, that shade symbolizes the dominant race of this world, the Nephilim. They were the children of gods and humans, and so their blood, too, was the conflux between the red blood of humanity and golden, divine blood. And actually-actually, the green moonlight was the result of the moon's physical composition, the distance between the planet and its moon, atmospheric scattering, and other factors.
 
 > [!jillian] 
 > "blood green"? 😵‍💫 if you say so. i think the [nephilim](https://en.wikipedia.org/wiki/Nephilim?useskin=vector) here is probably referring to seelies, but interesting to note that nephilim are typically giants. the seelies probably were much bigger before they withered, tho.
@@ -75,7 +75,7 @@ The fortune teller then explained the underlying principles. Put simply, it's so
 > 
 > the extra-interesting part here is all the other stuff that "exerts influence" on this planet: solar eclipse, "various lunar energies," the will of the archons, interference from distant stars, and "dark energy."
 
-By the way, other planets refer to actual celestial bodies as an "archon" and a theorized one as a "virtual." The planet the little witch was on was no exception. You see, we also call a will that comes down from the heavens an "archon." They are normally planets that have sentient life on them, and they number seven, and therefore they are called the "seven archons." As for the virtuals, their number varies between one, two, and four. The planet the little witch was on may well have been one. And in the case of such a world, the "virtual" would be the "dark [[sun]]." 
+By the way, other planets refer to actual celestial bodies as an "archon" and a theorized one as a "virtual." The planet the little witch was on was no exception. You see, we also call a will that comes down from the heavens an "archon." They are normally planets that have sentient life on them, and they number seven, and therefore they are called the "seven archons." As for the virtuals, their number varies between one, two, and four. The planet the little witch was on may well have been one. And in the case of such a world, the "virtual" would be the "dark [[Sun|sun]]." 
 
 > [!jillian] 
 > the word "archon" isn't always used to refer specifically to one of the Seven, but it seems like here it is. and it also sounds like we *are* assigning each of the archons one of the [seven classical planets](https://en.wikipedia.org/wiki/Classical_planet?useskin=vector). 
@@ -86,7 +86,7 @@ By the way, other planets refer to actual celestial bodies as an "archon" and a 
 
 Astrologists and diviners are, in essence, performing weight calculations on the sky-shroud, the cosmos, and the "archon" and "virtual" celestial bodies, before deducing individual developmental tendencies from world to world. But the relative weight of the sky-shroud over our planet is just way, way too great, and so, investigating it already allows us to obtain very precise results. As for the world the little witch and astrologist were on, they would have to go through the entire formula.
 
-After the little witch finished listening, she was very impressed by the fortune teller's learning and technique. Now they could speak of the matter of familiarhood. To be a witch's familiar was to share in her magic, and with magic, one could peer into more destinies. That said, becoming a familiar could have unforeseen side effects — it was hard to say what might happen. Yes! That's what the blood-green [[moon]] means: great change, which can't be judged as good or ill by the outcome. See how it all comes together? We didn't go off-topic!
+After the little witch finished listening, she was very impressed by the fortune teller's learning and technique. Now they could speak of the matter of familiarhood. To be a witch's familiar was to share in her magic, and with magic, one could peer into more destinies. That said, becoming a familiar could have unforeseen side effects — it was hard to say what might happen. Yes! That's what the blood-green [[Moon|moon]] means: great change, which can't be judged as good or ill by the outcome. See how it all comes together? We didn't go off-topic!
 
 "It is a shame that I am still not a great witch. I can't make you my familiar yet, " said the little witch. 
 
@@ -142,7 +142,7 @@ Actually, there's a story behind this crystal ball. It—
 In her travels, the little witch encountered a group of people getting ready to kill demon kings. She decided to join them and go kill some demon kings. They told her: The more demon kings you kill, the greater your witch's power will grow. This is, in fact, true. Then, they encountered a mimic demon king. After this whole affair, the little witch would write a "Demon King-Slaying Chronicle" each time she hunted one.
 
 > [!jillian]
-> i wonder if this is about the archon war — the demon kings are all the gods in teyvat that were killed, and the ones who killed them grew more powerful. the "mimic demon king" is interesting. maybe that's one of the "virtuals," the "dark [[sun]]."
+> i wonder if this is about the archon war — the demon kings are all the gods in teyvat that were killed, and the ones who killed them grew more powerful. the "mimic demon king" is interesting. maybe that's one of the "virtuals," the "dark [[Sun|sun]]."
 
 They encountered the mimic demon king in a run-down old house. At first, no one knew what was going on, assuming that the place had just gone moldy. 
 

@@ -34,4 +34,5 @@ The moon represents illusions and lies.
 >**Paimon:** The Moon? Wasn't that the result of our divination? [^2]
 
 [^1] [The Coming of the Sabzeruz Festival](https://genshin-impact.fandom.com/wiki/The_Coming_of_the_Sabzeruz_Festival)
+
 [^2] [The Samsara of the Sabzeruz Festival](https://genshin-impact.fandom.com/wiki/The_Samsara_of_the_Sabzeruz_Festival)

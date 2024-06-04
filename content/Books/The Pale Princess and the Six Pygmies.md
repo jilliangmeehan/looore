@@ -34,14 +34,14 @@ The Moonlight Forest was the only place free from the rule of the Night Mother. 
 ## Volume II
 > A fairytale story that has been told throughout Teyvat for ages. This installment tells of the meeting of the Pale Princess and the Light Prince.
 
-The monarch of this kingdom was a beautiful princess with skin as white as snow. Just like the [[moon]], she had the brightest skin, the purest eyes, and the kindest soul. People of the kingdom all vowed their loyalty to her and referred to her as The Pale Princess. 
+The monarch of this kingdom was a beautiful princess with skin as white as snow. Just like the [[Moon|moon]], she had the brightest skin, the purest eyes, and the kindest soul. People of the kingdom all vowed their loyalty to her and referred to her as The Pale Princess. 
 
 > [!Laura] Laura
 > Genshin tell me some Beautiful Pale Monarch with light-colored hair and skin white as snow has some variation of a "kind" or "gentle" soul One More Time i triple dog dare you
 
 The Pale Princess ruled her kingdom with kindness and gentleness. She always knew what was best for her people. Under her rule, the people of the Moonlight Forest never knew the threat of the Night Mother's wrath, and the creatures lurking in the dark never dared to set foot in the forest. 
 
-However, the Princess had her own troubles. To her, the silvery [[moon]] hanging in the night sky seemed like a tiny hole through which the light could pass, and she felt that by following the light back to its source one could almost see the world on the other side. Just like all other people, the Pale Princess would often sit on the stone plate in front of the palace, imagining a world beyond the moonlight.  
+However, the Princess had her own troubles. To her, the silvery [[Moon|moon]] hanging in the night sky seemed like a tiny hole through which the light could pass, and she felt that by following the light back to its source one could almost see the world on the other side. Just like all other people, the Pale Princess would often sit on the stone plate in front of the palace, imagining a world beyond the moonlight.  
 
 "Will I be able to bring my people there one day?" The Princess thought to herself. 
 
@@ -71,7 +71,7 @@ He had come to save them. He would eventually save her from the darkness and tak
 
 So, she asked.  
 
-"What's the world like on the other side of the [[moon]]?"  
+"What's the world like on the other side of the [[Moon|moon]]?"  
 
 The Prince had already told her about the Kingdom of Light hundreds of times before, but at that moment, the Prince realized that she was determined to find out for herself.  
 
