@@ -7,4 +7,4 @@ tags:
   - motifs
 draft:
 ---
-
+Memories = blood = wine

@@ -338,7 +338,7 @@ The little witch pulled a chair up and sat in it. "You returned so suddenly," sh
 
 "I can just sit in that old witch's chair, can't I? She's too old to get up and come sit in it nowadays." 
 
-"That's no good! That chair's hers, just as your chair's yours," the little witch argued her case earnestly with O. "To each person a chair. That way, even if they are not present, their [[memories]] will be seated still. So we absolutely can't use the wrong chairs." 
+"That's no good! That chair's hers, just as your chair's yours," the little witch argued her case earnestly with O. "To each person a chair. That way, even if they are not present, their [[Memories|memories]] will be seated still. So we absolutely can't use the wrong chairs." 
 
 > [!jillian]
 > the number of chairs and who sits in each one is important. 
