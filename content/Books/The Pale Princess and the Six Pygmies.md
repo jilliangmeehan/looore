@@ -94,7 +94,7 @@ Having slogged across the swamp blazing with dark flames and passed the cave ove
 > [!Laura]
 > Okay in retrospect this feels kind of obvious but I hadn't thought about how "swamp blazing with dark flames" and "cave overgrown with poisonous mushrooms" could 100% be describing Natlan and Sumeru, which would make sense if they are then arriving at the "Kingdom of Pygmies" aka Khaenri'ah. This would also imply that these places/Teyvat *is* part of the Land of Night, on their way to "the other side of the world" to the Kingdom of Light.
 > 
-> Also, btw, just because the whole [[Nephilim]]/giants thing from [[The Little Witch and the Undying Fire]the little witch book] is on my mind... I actually feel like the "pygmy" thing might indeed be a reference to the relative size of humans to seelies? Like. The depiction of these old celestial guides (probably seelies) in murals throughout Teyvat showed them as, like. HUGE...
+> Also, btw, just because the whole [[Nephilim]]/giants thing from [[The Little Witch and the Undying Fire]] is on my mind... I actually feel like the "pygmy" thing might indeed be a reference to the relative size of humans to seelies? Like. The depiction of these old celestial guides (probably seelies) in murals throughout Teyvat showed them as, like. HUGE...
 > 
 > ![[Sal_Vindagnyr_Mural_1.webp]]
 > ![[the-3-chenyu-vale-murals-v0-clfv8cd7b1gc1.webp]]
