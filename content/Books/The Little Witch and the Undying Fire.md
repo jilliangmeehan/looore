@@ -63,6 +63,9 @@ The little witch soared upon her broom beneath the blood-green [[Moon|moon]]. Bl
 > 
 ![[CleanShot 2024-06-04 at 19.16.55@2x.png]]
 
+> [!Laura]
+> One thought I have to add RE: Nephilim and giants, though I can totally see them being Seelies, is that the [Hyperboreans](https://en.wikipedia.org/wiki/Hyperborea#Physical_appearance) were considered to be giants, and we've been getting lots of mentions of "Golden Hyperborea" in Genshin lore recently... not necessarily convinced this is the intended connection, but nevertheless... it is there.
+
 Anyway, so the little witch was soaring upon her broom beneath the blood-green moon, and then, she met a young lady who claimed to be a "fortune teller."
 
 "I wish to become a witch's familiar," said the young lady.
@@ -79,6 +82,18 @@ The fortune teller then explained the underlying principles. Put simply, it's so
 > 
 > the extra-interesting part here is all the other stuff that "exerts influence" on this planet: solar eclipse, "various lunar energies," the will of the archons, interference from distant stars, and "dark energy."
 
+> [!Laura] 
+> Ok, for my own sanity, I actually kind of want to break down what the fortune teller is saying here. I guess I can be wrong, but this is what I'm taking her to mean...
+> 
+> Basically, she is saying that in "*our* world", which sounds like Teyvat... even though a lot of other details of the story kind of make it sound like we're not really on Teyvat atm but I digress... the "stars"/astrology quite literally keep humans bound to their fate. Then goes on to basically describe how Astrology works IRL—
+>  - "solar ecliptic energies" —> The related path of the sun across the sky, aka the solar ecliptic
+>  - "various lunar energies of the satellites" —> energies associated w/ the phases of the moon
+>   - "the will-energy of the celestial rulers of the planets" —> each planet has its own energy or influence, often personified as a "celestial ruler", which affect events/behaviors
+>   - "scattered interference energy of distant stars" —> even distant stars beyond our solar system have some kind of energy that can interfere or interact with events on our planet
+>    - "dark energy that suffuses the pitch-black cosmos" —> well apparently "[dark energy](https://en.wikipedia.org/wiki/Dark_energy)" is the name we've given a hypothetical form of energy that is thought to permeate all of space and is the primary cause for the accelerated expansion of the universe
+>    
+> —and says that that is how it works in other worlds. And that those things still have influence on "our" planet (Teyvat), but the firmament causes major interference.
+
 By the way, other planets refer to actual celestial bodies as an "archon" and a theorized one as a "virtual." The planet the little witch was on was no exception. You see, we also call a will that comes down from the heavens an "archon." They are normally planets that have sentient life on them, and they number seven, and therefore they are called the "seven archons." As for the virtuals, their number varies between one, two, and four. The planet the little witch was on may well have been one. And in the case of such a world, the "virtual" would be the "dark [[Sun|sun]]." 
 
 > [!jillian] 
@@ -87,6 +102,19 @@ By the way, other planets refer to actual celestial bodies as an "archon" and a 
 > my head is swimming a bit with the "virtuals." these could be descenders — what is a "theorized celestial body"? and are we saying that the planet the witch is on *is* a "virtual" celestial body? and it *is* the dark sun? help.
 > 
 > maybe we're meant to look at it a little more abstractly — there are seven archons, but in teyvat there's also that secret eighth thing. a false archon, kind of.
+
+> [!Laura] 
+> Ok we're going to do a little lore math again and break down what miss fortune teller is saying. Again, for my own sanity.
+> 
+> "Actual" Celestial Bodies = Archon
+> A "Will that comes down from the Heavens" = Archon
+> "Normally" planet that contains sentient life = Archon
+> There are 7 total Archons.
+> 
+> "Theorized" Celestial Bodies = Virtual
+> They vary between 1, 2, and 4. (This might not necessarily be intentional but this is immediately giving me, like. 1: The Primordial One; 2-Piece Sets; 4-Piece Sets)
+> 
+> My guess is indeed that they are descenders. Similar to the Archons being wills that come down from the heavens, Virtuals are wills that can "theoretically" *rival* entire Archons'/worlds. Which is like. Crazy if true.............. Like. I guess saying that descenders have wills that can rival entire worlds and give birth to entire universes would imply that they themselves can host an entire world/universe, but for some reason it never really occured to me to think of them *as* a Celestial Body/Planet that could. *Theoretically hold sentient life.* Does that mean the gnoses, which are made of the corpse of the third descender, is like also just the corpse of an entire *world*? An entire theoretical universe? A dead star?
 
 Astrologists and diviners are, in essence, performing weight calculations on the sky-shroud, the cosmos, and the "archon" and "virtual" celestial bodies, before deducing individual developmental tendencies from world to world. But the relative weight of the sky-shroud over our planet is just way, way too great, and so, investigating it already allows us to obtain very precise results. As for the world the little witch and astrologist were on, they would have to go through the entire formula.
 
@@ -184,6 +212,9 @@ Her friends recovered, and told the little witch that this was the mimic demon k
 
 > [!jillian] 
 > definitely sounds like one of those "dark suns" to me. i wonder what the real difference is — blood, again? from this world vs. not from this world?
+
+> [!Laura] 
+> Hmmm, interesting... I'm still more attached to the descender theory, but I feel like I can buy it as maybe a metaphor maybe? Or maybe the descender theory is just straight up wrong! Which it can be! But like I can definitely see this being the case, too. A hivemind basically *is* a "theoretical" planet with "sentient" "life" right? Or like. It's mimicking sentient life...? Hmmge.
 
 It was a shame. She wished she had a chance to observe more and make some more records.
 
