@@ -18,6 +18,7 @@ If you're on desktop, you might see a handy little "Explorer" in the left sideba
 
 | File                                                                     | Recently updated |
 | ------------------------------------------------------------------------ | ---------------- |
+| [[The Pale Princess and the Six Pygmies]]                                | June 05, 2024    |
 | [[Tools]]                                                                | June 04, 2024    |
 | [[Fertilizer Impact]]                                                    | June 03, 2024    |
 | [[Lynette's hangout is about Pierro]]                                    | June 03, 2024    |
@@ -25,7 +26,6 @@ If you're on desktop, you might see a handy little "Explorer" in the left sideba
 | [[The Boar Princess]]                                                    | June 03, 2024    |
 | [[Hex & Hound]]                                                          | June 03, 2024    |
 | [[The Feline Firm]]                                                      | June 03, 2024    |
-| [[The Pale Princess and the Six Pygmies]]                                | June 03, 2024    |
 | [[Itto & Paimon\|Itto & Paimon]]                                         | June 01, 2024    |
 | [[Phanes & Nibelung are partners\|Phanes & Nibelung are partners]]       | June 01, 2024    |
 | [[Childe & Parsifal\|Childe & Parsifal]]                                 | May 31, 2024     |
