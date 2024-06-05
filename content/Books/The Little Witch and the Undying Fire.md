@@ -89,9 +89,9 @@ The fortune teller then explained the underlying principles. Put simply, it's so
 > Basically, she is saying that in "*our* world", which sounds like Teyvat... even though a lot of other details of the story kind of make it sound like we're not really on Teyvat atm but I digress... the "stars"/astrology quite literally keep humans bound to their fate. Then goes on to basically describe how Astrology works IRL—
 >  - "solar ecliptic energies" —> The related path of the sun across the sky, aka the solar ecliptic
 >  - "various lunar energies of the satellites" —> energies associated w/ the phases of the moon
->   - "the will-energy of the celestial rulers of the planets" —> each planet has its own energy or influence, often personified as a "celestial ruler", which affect events/behaviors
+>   - "the will-energy of the celestial rulers of the planets" —> in regular astrology, each planet has its own energy or influence, which is often personified as a "celestial ruler", which affect events/behaviors. here though, i do imagine it's this, plus also an "archon"
 >   - "scattered interference energy of distant stars" —> even distant stars beyond our solar system have some kind of energy that can interfere or interact with events on our planet
->    - "dark energy that suffuses the pitch-black cosmos" —> well apparently "[dark energy](https://en.wikipedia.org/wiki/Dark_energy)" is the name we've given a hypothetical form of energy that is thought to permeate all of space and is the primary cause for the accelerated expansion of the universe
+>    - "dark energy that suffuses the pitch-black cosmos" —> well apparently "[dark energy](https://en.wikipedia.org/wiki/Dark_energy)" is the name we've given a hypothetical form of energy that is thought to permeate all of space and is the primary cause for the accelerated expansion of the universe... i wonder if in the context of this story, this is also meant to be talking about virtuals?
 >    
 > —and says that that is how it works in other worlds. And that those things still have influence on "our" planet (Teyvat), but the firmament causes major interference.
 
