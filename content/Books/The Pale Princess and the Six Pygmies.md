@@ -134,7 +134,8 @@ On hearing this, the pygmies were elated. To show their gratitude, they went alo
 > But. I absolutely have to bring up Ballad of the Fjords story: "He and Snegurochka once fell in love, yet lost each other due to the wicked tricks of the changelings — a truly tragic tale." Pygmies = changelings????? Yay, nay??? Am I insane?????????????? Especially since I highkey think the Prince of Light = Third Descender and I lower-key think [[Ajax might be the third descender|third descender might = Ajax]].
 
 >[!Laura] Laura 
- **addendum post 4.7 aq**
+>
+>**addendum post 4.7 aq**
 > 
 > **/DRAMATICALLY TEARS SHIRT OFF CHEST/** RAHHHHHHHHHHHH! VINDICATION!!!!!!!!! I NEVER LIKED YOU PYGMIES = ARCHON THEORY!!! I KNEW YOU MADE NO FUCKING SENSE!!!!!!!
 > 
