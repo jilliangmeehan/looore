@@ -254,6 +254,9 @@ Finally, the little witch had to face a standard demon king, a great demon king 
 > [!jillian] 
 > tsaritsa! so whoever wrote this particular note probably lives in snezhnaya — *and* whenever they wrote this note, there was a tsaritsa. i guess we can't be sure it was the same tsaritsa that exists now, but it probably was.
 
+> [!Laura]
+> Am I insane like. The way I read this is as if they are addressing it TO the tsaritsa for leaving so many unresolved plot threads, as if she is writing this next section...
+
 So, the little witch found the great demon king. I'm sure you all remember that killi— defeating more demon kings causes witches to grow stronger. As such, the little witch was actually already amazingly powerful now! The great demon king was simply no match for her. 
 
 > [!jillian]
