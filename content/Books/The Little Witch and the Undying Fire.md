@@ -54,7 +54,7 @@ The teacher's friends whispered to her: "Hey now, isn't that a bit much? You obv
 
 **Deep in the woods, nighttime.** 
 
-The little witch soared upon her broom beneath the blood-green [[Moon|moon]]. Blood-green was regarded as a symbol of great change in astrology, though whether such change be for good or ill cannot be determined by any result. —Actually, that shade symbolizes the dominant race of this world, the Nephilim. They were the children of gods and humans, and so their blood, too, was the conflux between the red blood of humanity and golden, divine blood. And actually-actually, the green moonlight was the result of the moon's physical composition, the distance between the planet and its moon, atmospheric scattering, and other factors.
+The little witch soared upon her broom beneath the blood-green [[Moon|moon]]. Blood-green was regarded as a symbol of great change in astrology, though whether such change be for good or ill cannot be determined by any result. —Actually, that shade symbolizes the dominant race of this world, the [[Nephilim]]. They were the children of gods and humans, and so their blood, too, was the conflux between the red blood of humanity and golden, divine blood. And actually-actually, the green moonlight was the result of the moon's physical composition, the distance between the planet and its moon, atmospheric scattering, and other factors.
 
 > [!jillian] 
 > "blood green"? 😵‍💫 if you say so. i think the [nephilim](https://en.wikipedia.org/wiki/Nephilim?useskin=vector) here is probably referring to seelies, but interesting to note that nephilim are typically giants. the seelies probably were much bigger before they withered, tho.

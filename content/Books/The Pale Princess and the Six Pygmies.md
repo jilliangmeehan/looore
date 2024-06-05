@@ -22,12 +22,21 @@ The Night Mother was the source of all sins, and the Land of Night was the embod
 > [!jillian]
 > i wonder if a mother being "the sources of all sins" literally means she is the mother of the sinner. maybe even many sinners.
 
+> [!Laura] Laura
+> OK WELL. Knowing what we know past 4.7. That *could* track. But if there are 5 sinners in Khaenr'iah, would she be mother to all 5? Are they all siblings? Dainsleif only mentioned Vedrfolnir as his brother. They could also just be half-siblings. It could also, I guess, be a more... symbolic kind of "Mother"?
+
 The Moonlight Forest was the only place free from the rule of the Night Mother. Only there could the people bask in the bright moonlight and enjoy the grace it brought to the living. Everyone in the Kingdom of the Moonlight Forest was born with fair skin, light-colored hair, and bright blue eyes. Perhaps the constant lack of sunlight and the nourishment of the moonlight was the reason for their beauty, giving them an appearance different from the abhorrent creatures lurking at the edge of the forest.
 
 > [!Laura] Laura
 > Ok so obviously it feels like Land of Night = abyss here. Moonlight Forest can be a number of things tbh, but the easiest stand-in (and the popular theory, I think?) is Khaenri'ah, especially since this book was something an abyss mage was hiding and said was holding a "secret" of the Abyss Order's. 
 > 
 > The only reason I'm not entirely convinced is that the description of "fair skin" and "light-colored hair" is giving me more Seelies and their whole vibes, especially since we know that not all Khaenri'ahns actually for-real have fair skin and light-colored hair, but they could just be using this as an oversimplified way to indicate there being a different sort of "race" here and I could just be overthinking it. Or maybe this just could fit for both. Bc like, I guess it does. Time is cyclical. Etc etc.
+> 
+> **edit (post 4.7 aq)**
+> 
+> Ok, well, after 4.7 the Moonlight Forest now extra feels like the Seelie Kingdom to me, especially now that we know that in the Pale Princess and Light Princess' journey they *arrive at* the "Kingdom of Pygmies", which must be Khaenri'ah (or Humans?). But are they in the Dark Sea already? Is the "Land of Night" the Abyss? Is it Teyvat? Or is "The Kingdom of Light" at the other side of the moon "Teyvat"? So many questions...
+> 
+
 
 > [!jillian]
 > light colored hair and blue eyes reminds me of magdalene from [[Hex & Hound]]. also dainsleif, i guess. and kiana kaslana when she has blue eyes — she's not *blonde* though, like the other two.
@@ -82,7 +91,18 @@ So, having sworn to save her people, the Princess and the Prince left the Moonli
 
 Having slogged across the swamp blazing with dark flames and passed the cave overgrown with poisonous mushrooms, the Prince and the Princess finally arrived at the Kingdom of Pygmies.  
 
+> [!Laura]
+> Okay in retrospect this feels kind of obvious but I hadn't thought about how "swamp blazing with dark flames" and "cave overgrown with poisonous mushrooms" could 100% be describing Natlan and Sumeru, which would make sense if they are then arriving at the "Kingdom of Pygmies" aka Khaenri'ah. This would also imply that these places/Teyvat *is* part of the Land of Night, on their way to "the other side of the world" to the Kingdom of Light.
+> 
+> Also, btw, just because the whole [[Nephilim]]/giants thing from [[The Little Witch and the Undying Fire]the little witch book] is on my mind... I actually feel like the "pygmy" thing might indeed be a reference to the relative size of humans to seelies? Like. The depiction of these old celestial guides (probably seelies) in murals throughout Teyvat showed them as, like. HUGE...
+> 
+> ![[Sal_Vindagnyr_Mural_1.webp]]
+> ![[the-3-chenyu-vale-murals-v0-clfv8cd7b1gc1.webp]]
+
 "Princess of the Moonlight Forest, please save my five brothers. We will vow our loyalty to you in return for your kindness," begged a deformed pygmy who had just popped up from behind the branches.  
+
+> [!Laura]
+> So if deformed pygmy = Dain are the 5 sinners of Khaenri'ah Dain's siblings or nah.
 
 The kind Princess, sympathizing with the pygmies, promised to help them.  
 They climbed up the dark mountains and saved the pygmy on the ridge, who was blind.  
@@ -113,6 +133,26 @@ On hearing this, the pygmies were elated. To show their gratitude, they went alo
 > 
 > But. I absolutely have to bring up Ballad of the Fjords story: "He and Snegurochka once fell in love, yet lost each other due to the wicked tricks of the changelings — a truly tragic tale." Pygmies = changelings????? Yay, nay??? Am I insane?????????????? Especially since I highkey think the Prince of Light = Third Descender and I lower-key think [[Ajax might be the third descender|third descender might = Ajax]].
 
+>[!Laura] Laura 
+ **addendum post 4.7 aq**
+> 
+> **/DRAMATICALLY TEARS SHIRT OFF CHEST/** RAHHHHHHHHHHHH! VINDICATION!!!!!!!!! I NEVER LIKED YOU PYGMIES = ARCHON THEORY!!! I KNEW YOU MADE NO FUCKING SENSE!!!!!!!
+> 
+> OK OK OK. Anyway. I've already edited and added a good number of notes before this one saying that the pygmies are the 5 sinners of Khaenri'ah + Dain but here is where I really unfurl my scrolls. 
+> 
+> First of all: kind of fascinating that Dain himself is not a "Sinner"—I kind of don't trust that he's not, at least by definition if not by title. Even from the events of this book alone we can kind of see that he is just as guilty of taking part in the events that lead to the Sinners dividing among themselves a "power that could destroy the world." Is he implying that he did not take a piece of that pie??? Or did he just feel guilty after? Like, can he even reverse such a decision after it is taken? Unless it is a physical object that holds said power that can destroy the world physically outside of himself, which he can simply choose not to wield... such as... say... a ring.......
+> 
+> On the topic of the title of "Sinner"—was the title something that was given to post-cataclysm? Because although Dain seemed to really speak of himself in a very separated way from the five sinners, he still said "the six of us, *together*... were supposed to have been the ones to prevent the disaster, the ones to stop the Vinster King from continuing to rock the foundation of the world," so you'd think all six of them were, like. A Unit. somehow.
+> 
+> Anyway. Here's my take on who is who:
+> 
+> - Deformed Pygmy is, of course, Dain.
+> - "The Wise" Hroptatyr = the foolish pygmy
+> - "The Visionary" Verdrfolnir = the blind pygmy
+> - "Racher of Solnari" Rerir = the timid pygmy 
+> - "Gold" Rhinedottir = the shrunken pygmy
+> - "The Foul" Surtalogi = the carefree pygmy
+
 > [!jillian]
 > i honestly have no idea, but i will say that i don't think it makes much sense for venti and zhongli to be pygmies saved by the tsaritsa unless there is some truly bonkers shit going on with her. but putting that aside, i do think portraying the archons as secretly corrupt is neat and i wouldn't be surprised by it. AND having six of them instead of the usual seven dwarves is really pointed.
 > 
@@ -136,6 +176,10 @@ The foolish pygmy gently patted his scabies-ridden head and gulped the light-fil
 
 > [!Laura] Laura
 >"Use him to make us smarter" Like how the corpse of the third descender was used to make the *gnosis* aka knowledge. Like................ i'm cooking...
+>
+>**edit (post 4.7 aq)**
+>
+>Tbh yknow what. I still like the 3rd descender theory. Like. I know the timeline makes no logical sense but like let's be honest. What about Teyvat's timeline makes sense. I think there's a reason Skirk was the one to tell us about the third descender thing. Like maybe the sinners didn't use his *body*, because Dainsleif literally threw his body into a fucking tree hole. They used... something else.......
 
 > [!jillian]
 > okay yeah that does check out. the prince of light being the third descender makes a lot of sense — now i just wonder how he *got* here, and why he came. 
@@ -159,6 +203,10 @@ There was one pygmy who did not join the discussion. This is not because he was 
 
 > [!Laura] Laura
 > Like I just dont know why this pygmy gives me Dain vibes lmao. Like. Ok. The timeline is incredibly wack and if this is indeed the third descender there is literally no way it *can* be Dain but do you get what I mean. "Pygmies" also just has such dwarf energy. 
+> 
+> **edit (post 4.7 aq)**
+> 
+> It was. (:
 
 > [!jillian]
 > it's the guilt. yeah, i can definitely see how this one gives dainsleif vibes.
@@ -195,6 +243,9 @@ However, during the celebration, one of the pygmies wrapped the Prince in the di
 
 > [!jillian]
 > this is where i start getting really confused about the prince of light being the third descender — we have conflicting ideas about the gnoses being his literal corpse vs being parts of his broken soul, and the gnoses being created after his death by the first + second descenders vs him being a willing participant and putting this curse on them.
+
+> [!Laura] Laura
+>Yeah this is soooo weird. So, like. It sounds almost like the Sinners were able to take parts of his? Soul? I guess? Like they did successfully break that apart. That is what cursed the sinners. I wonder if it's the descender's will they're talking about here. Like, were they able to separate it from its body? Would his body still have a sufficient amount of power that Phanes/Second Descender can then use *that* to create the Gnoses as a way to suppress the "original order" of the world? Maybe that's why they needed to use the Descender's corpse as an almost vessel for the sovereigns' authority...? Like—the descenders' corpse itself was missing its own will/soul/authority?
 
 ## Volume VII
 > A fairytale story that has been told throughout Teyvat for ages. The final installment brings everything to a conclusion, and includes the Night Mother's prophecy.
