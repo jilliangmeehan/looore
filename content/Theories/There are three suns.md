@@ -6,7 +6,7 @@ author:
 aliases: 
 tags:
   - theory
-draft: true
+draft: false
 ---
 This game keeps teasing me with little mentions of "three suns." The first time I noticed it was in the last act of the Fontaine Archon Quest, when Furina said something like, "It's not like there could be three suns." Okay, likely story.
 

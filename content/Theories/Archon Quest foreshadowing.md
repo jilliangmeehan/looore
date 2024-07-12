@@ -6,7 +6,7 @@ author:
 aliases: 
 tags:
   - theory
-draft: true
+draft: false
 ---
 Each chapter of the Archon Quest tells us a story about the nation we're visiting, but I also think it tells us something about the larger picture — what's happening in Teyvat as a whole. 
 

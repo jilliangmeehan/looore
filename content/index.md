@@ -27,7 +27,6 @@ If you're on desktop, you might see a handy little "Explorer" in the left sideba
 | [[Memories\|Memories]]                                                   | June 04, 2024    |
 | [[Moon\|Moon]]                                                           | June 04, 2024    |
 | [[Sun\|Sun]]                                                             | June 04, 2024    |
-| [[The Harbingers as Tarot cards]]                                        | June 04, 2024    |
 | [[Archon Quest foreshadowing]]                                           | June 04, 2024    |
 | [[Lynette's hangout is about Pierro]]                                    | June 04, 2024    |
 | [[There are three suns]]                                                 | June 04, 2024    |
