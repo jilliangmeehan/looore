@@ -16,24 +16,12 @@ Genshin Impact lore is really cool & interesting — there are so many theme
 
 If you're on desktop, you might see a handy little "Explorer" in the left sidebar, where you can browse posts by category. You can also just start searching for anything you're interested in, and some pages will probably come up. Or you can just check out our most recent posts:
 
-| File                                                                     | Recently updated |
-| ------------------------------------------------------------------------ | ---------------- |
-| [[The Pale Princess and the Six Pygmies]]                                | June 05, 2024    |
-| [[Tools]]                                                                | June 04, 2024    |
-| [[Fertilizer Impact]]                                                    | June 03, 2024    |
-| [[Lynette's hangout is about Pierro]]                                    | June 03, 2024    |
-| [[The Little Witch and the Undying Fire]]                                | June 03, 2024    |
-| [[The Boar Princess]]                                                    | June 03, 2024    |
-| [[Hex & Hound]]                                                          | June 03, 2024    |
-| [[The Feline Firm]]                                                      | June 03, 2024    |
-| [[Itto & Paimon\|Itto & Paimon]]                                         | June 01, 2024    |
-| [[Phanes & Nibelung are partners\|Phanes & Nibelung are partners]]       | June 01, 2024    |
-| [[Childe & Parsifal\|Childe & Parsifal]]                                 | May 31, 2024     |
-| [[Childe Harold\|Childe Harold]]                                         | May 31, 2024     |
-| [[Childe's many names\|Childe's many names]]                             | May 31, 2024     |
-| [[Childe Rowland\|Childe Rowland]]                                       | May 31, 2024     |
-| [[Parsifal\|Parsifal]]                                                   | May 31, 2024     |
-| [[Ajax might be the third descender\|Ajax might be the third descender]] | May 31, 2024     |
+```dataview
+TABLE file.mday AS "Recently updated"
+FROM "content"
+WHERE file.mday.monthyear = this.file.mday.monthyear AND file.name != "index"
+SORT file.mday DESC
+```
 
 
 [^1]: [Travel Notes: Catch the Wind](https://genshin-impact.fandom.com/wiki/Travel_Notes:_Catch_the_Wind)
