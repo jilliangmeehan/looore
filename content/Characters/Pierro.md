@@ -12,7 +12,7 @@ draft:
 ## Theories
 I have a bunch of silly Pierro theories that I'm still trying to make sense of. I think [[Lynette's hangout is about Pierro]]. I think [[Emilie's story quest is about Pierro]]. I think [[The Feline Firm]] is about him. I think he and [[Parsifal]] have a lot of similarities that I can't ignore. I think he and the [[Sage of Stolen Flame]] also have a lot of similarities that I can't ignore.
 
-![[CleanShot 2024-08-27 at 15.59.46@2x.png]]
+![[pierro_discord.png]]
 ### What's he doing?
 My best guess right now is that he's trying to revive the third descender or create a new descender. I wrote about this a little more extensively [[Emilie's story quest is about Pierro|here]]. Past that, I have absolutely no idea what his plan is. It sounds like he wants to do a hard reset on Teyvat by burning it all and starting over, but it's hard to tell what purpose that actually serves.
 
