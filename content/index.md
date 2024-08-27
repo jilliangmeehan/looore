@@ -16,30 +16,34 @@ Genshin Impact lore is really cool & interesting — there are so many theme
 
 If you're on desktop, you might see a handy little "Explorer" in the left sidebar, where you can browse posts by category. You can also just start searching for anything you're interested in, and some pages will probably come up. Or you can just check out our most recent posts:
 
-| File                                                                     | Recently updated |
-| ------------------------------------------------------------------------ | ---------------- |
-| [[Natlan cast names\|Natlan cast names]]                                 | July 12, 2024    |
-| [[The Little Witch and the Undying Fire]]                                | July 12, 2024    |
-| [[The Pale Princess and the Six Pygmies]]                                | July 12, 2024    |
-| [[Childe Harold\|Childe Harold]]                                         | June 04, 2024    |
-| [[Childe Rowland\|Childe Rowland]]                                       | June 04, 2024    |
-| [[Parsifal\|Parsifal]]                                                   | June 04, 2024    |
-| [[Memories\|Memories]]                                                   | June 04, 2024    |
-| [[Moon\|Moon]]                                                           | June 04, 2024    |
-| [[Sun\|Sun]]                                                             | June 04, 2024    |
-| [[Archon Quest foreshadowing]]                                           | June 04, 2024    |
-| [[Lynette's hangout is about Pierro]]                                    | June 04, 2024    |
-| [[There are three suns]]                                                 | June 04, 2024    |
-| [[The Feline Firm]]                                                      | June 04, 2024    |
-| [[Hex & Hound]]                                                          | June 04, 2024    |
-| [[Fertilizer Impact\|Fertilizer Impact]]                                 | June 03, 2024    |
-| [[The Boar Princess]]                                                    | June 03, 2024    |
-| [[Itto & Paimon\|Itto & Paimon]]                                         | June 01, 2024    |
-| [[Phanes & Nibelung are partners\|Phanes & Nibelung are partners]]       | June 01, 2024    |
-| [[Childe & Parsifal\|Childe & Parsifal]]                                 | May 31, 2024     |
-| [[Childe's many names\|Childe's many names]]                             | May 31, 2024     |
-| [[Ajax might be the third descender\|Ajax might be the third descender]] | May 31, 2024     |
-
+| Page                                     | Recently updated |
+| ---------------------------------------- | ---------------- |
+| [[Natlan timeline (maybe)]]              | August 27, 2024  |
+| [[Chain Breaker]]                        | August 27, 2024  |
+| [[Earthshaker]]                          | August 27, 2024  |
+| [[Flute of Ezpitzal]]                    | August 27, 2024  |
+| [[Fang of the Mountain King]]            | August 27, 2024  |
+| [[Footprint of the Rainbow]]             | August 27, 2024  |
+| [[Ring of Yaxche]]                       | August 27, 2024  |
+| [[Surf's Up]]                            | August 27, 2024  |
+| [[Talking Stick]]                        | August 27, 2024  |
+| [[Ash-Graven Drinking Horn]]             | August 27, 2024  |
+| [[Maawe and Monetoo]]                    | August 26, 2024  |
+| [[Records of Hanan Pacha]]               | August 26, 2024  |
+| [[The Tale of Qoyllor and Ukuku]]        | August 26, 2024  |
+| [[The Volcano Lord and the Shadow Pins]] | August 26, 2024  |
+| [[Obsidian Codex]]                       | August 26, 2024  |
+| [[Scroll of the Hero of Cinder City]]    | August 26, 2024  |
+| [[Unfinished Reverie]]                   | August 26, 2024  |
+| [[Tenoch]]                               | August 26, 2024  |
+| [[Tupac]]                                | August 26, 2024  |
+| [[Sage of Stolen Flame]]                 | August 26, 2024  |
+| [[Xiuhcoatl]]                            | August 26, 2024  |
+| [[Xbalanque]]                            | August 26, 2024  |
+| [[Chaac]]                                | August 26, 2024  |
+| [[Blazing Sacrificial Heart]]            | August 26, 2024  |
+| [[Sacred Lord]]                          | August 26, 2024  |
+| [[Night-Wind's Mystic]]                  | August 26, 2024  |
 
 
 [^1]: [Travel Notes: Catch the Wind](https://genshin-impact.fandom.com/wiki/Travel_Notes:_Catch_the_Wind)
