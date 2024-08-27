@@ -77,7 +77,7 @@ While this is going on, the Volcano Lord's arm is also being pinned down by nail
 ## The first Pyro Archon
 At some point, Xbalanque meets the future [[Sacred Lord]], who is imprisoned (and probably in his dragon form). He shows him "great compassion," which makes the Sacred Lord love him. 
 
-Presumably during the Archon War, Xbalanque defeats [[Xiuhcoatl]] and carves out his heart as a sacrifice to become the first Pyro Archon.
+Presumably during the Archon War, Xbalanque defeats [[Xiuhcoatl]] and carves out his own heart as a sacrifice to become the first Pyro Archon ([[Blazing Sacrificial Heart]]).
 
 Later, Xbalanque "ascends," basically giving his authority back to the Sacred Flame for the next Pyro Archon.
 
