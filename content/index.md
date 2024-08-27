@@ -18,6 +18,7 @@ If you're on desktop, you might see a handy little "Explorer" in the left sideba
 
 | Page                                     | Recently updated |
 | ---------------------------------------- | ---------------- |
+| [[Fertilizer Impact]]                    | August 27, 2024  |
 | [[Childe]]                               | August 27, 2024  |
 | [[Pierro]]                               | August 27, 2024  |
 | [[Emilie's story quest is about Pierro]] | August 27, 2024  |
