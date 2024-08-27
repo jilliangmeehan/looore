@@ -93,7 +93,7 @@ The heroes go to Cinder City to dethrone the Sacred Lord, who kinda loses it and
 
 Sakkuk survived for years after, collecting everything she could find that was made by the craftsman. She took all this evidence of his name with her into the night realm to burn away his sacred name, as she promised him.
 ## 1000 years ago
-The Flower-Feather clan is founded by Liongo, who was adopted by a dragon matriarch. Her clan accepts [[Tupac]] and the dragon mentioned in [[Ring of Yaxche]] as members (maybe).
+The Flower-Feather clan is founded by Liongo, who was adopted by a dragon matriarch ([[Chain Breaker]]). Her clan accepts [[Tupac]] and the dragon mentioned in [[Ring of Yaxche]] as members (maybe).
 
 Also around this time, Venti wakes up from a nap and meets Vennessa and her tribe in Monstadt. My guess is this was a liiiiittle bit after the founding of the Flower-Feather clan, because they seem like they might be some kind of offshoot of them, but they've come a long way & Vennessa doesn't really have any memories of Natlan that we know of.
 
