@@ -47,9 +47,9 @@ While [[Xiuhcoatl]] is asleep, one of his scions steals all his stuff and basica
 
 The Lord of the Night sends [[Sage of Stolen Flame|his best sage]], and "the gods" send [[Chaac]] to work together to subdue this Volcano Lord. They take out one of his eyes with a blowdart, and then trick him into thinking they're doctors who can fix his eye — instead, they replace his eyes & claws with grainfruit, and he "dies."
 
-The Sage takes the phlogiston that the Volcano Lord was guarding and, with Chaac's help, convinced the humans to accept its power. He builds [[Records of Hanan Pacha|Hanan Pacha]], a land that floats above the clouds. With the power of phlogiston, Chaac and the other humans ascend to Hanan Pacha and build a city there.
+The Sage takes the phlogiston that the Volcano Lord was guarding and, with Chaac's help, convinces the humans to accept its power. He builds [[Records of Hanan Pacha|Hanan Pacha]], a land that floats above the clouds. With the power of phlogiston, Chaac and the other humans ascend to Hanan Pacha and build a city there.
 
-The Sage tells people not to eat food grown from the land, because the Lord of the Night has control over it. He says they can only drink water from the Source of Many Waters, so Hanan Pacha can continue floater higher and higher, away from the earth.
+The Sage tells people not to eat food grown from the land, because the Lord of the Night has control over it. He says they can only drink water from the Source of Many Waters, so Hanan Pacha can continue floating higher and higher, away from the earth.
 
 The Lord of the Night tricks Chaac and the others into drinking alcohol (thinking it's water) made from the land. The Sage kicks everybody out of Hanan Pacha, and they take the phlogiston to the rest of Natlan and presumably start forming more human tribes. Chaac makes contact with the Night Kingdom, and the first Wayob are born — the humans accept their guidance.
 
