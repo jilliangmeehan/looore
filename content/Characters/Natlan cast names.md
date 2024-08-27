@@ -25,7 +25,7 @@ They came up from the underworld, helped people out for a bit, and then returned
 ![[kinich.webp]]
 [Kinich](https://en.wikipedia.org/wiki/Kinich_Ahau) is the Yucatec and Lacandon name for the Maya [[Sun|sun]] god. A few interesting notes on that Wikipedia page:
 
-> It may be noted that the [Hero Twins](https://en.wikipedia.org/wiki/Hero_Twins "Hero Twins"), Hunahpu and Xbalanque, although stated to have changed into Sun and Moon, are never shown assimilated to God G. (God G is another name referring to Kinich here.)
+> It may be noted that the [Hero Twins](https://en.wikipedia.org/wiki/Hero_Twins "Hero Twins"), Hunahpu and [[Xbalanque]], although stated to have changed into Sun and Moon, are never shown assimilated to God G. (God G is another name referring to Kinich here.)
 
 > The sun deity can be shown as a king (_ajaw_) seated high on a throne cushion (...)
 ## Ajaw
