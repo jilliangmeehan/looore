@@ -12,7 +12,7 @@ tags:
 draft: 
 publish: true
 ---
-When I played the "Detectives" line of Lynette's hangout, I kinda had the feeling that the whole story was an allegory for something that happened with Pierro — and after reading [[The Feline Firm]], I'm even more sure about that, because the stories are *really* similar. 
+When I played the "Detectives" line of Lynette's hangout, I kinda had the feeling that the whole story was an allegory for something that happened with [[Pierro]] — and after reading [[The Feline Firm]], I'm even more sure about that, because the stories are *really* similar. 
 
 ## Synopsis
 In the hangout, we learn that a guy named Pierre (so close to "Pierro" lol) was the one who tricked her into getting in the Lefevere family's carriage at a dinner party to take her away, before "Father" intervened — so far, really similar to what happens in [[The Feline Firm]]. Arlecchino then orchestrated the fall of the Lefevere family, and took Lyney & Lynette in to the House of the Hearth.

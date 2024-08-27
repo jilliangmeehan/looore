@@ -11,7 +11,7 @@ draft:
 ---
 ## Names
 ### Ajax
-The name "Ajax" comes from [the Greek hero](https://en.wikipedia.org/wiki/Ajax_the_Great?useskin=vector) who fought with the Achaeans in the Trojan War. He's portrayed as being a very strong, skilled fighter but also kind of an arrogant, silly jock boy. He also has a brother named Teucer, just like Childe.
+The name "Ajax" comes from [the Greek hero](https://en.wikipedia.org/wiki/Ajax_the_Great?useskin=vector) who fought with the Achaeans in the Trojan War. He's portrayed as being a very strong, skilled fighter but also kind of an arrogant, silly jock boy. He also has a brother named Teucer, just like [[Childe]].
 
 Obviously, he's mentioned in the Iliad, where he is second only to his cousin Achilles in strength — this is loosely referenced in one of the notes you can find in the Narzissenkreuz Ordo:
 
@@ -58,7 +58,7 @@ The final lines of the play, spoken by the chorus, are:
 > no seeing, no knowing what the end will be.
 
 ### Childe
-*Childe* is a term for a "young lord" who has not yet achieved knighthood. If we just leave it there, it does make sense. He's the youngest of the Harbingers, with the most to prove.
+*[[Childe]]* is a term for a "young lord" who has not yet achieved knighthood. If we just leave it there, it does make sense. He's the youngest of the Harbingers, with the most to prove.
 
 I think there are a few other sources of inspiration for Childe's title, though. One of them is [[Childe Harold|Childe Harold's Pilgrimage]], a narrative poem by Lord Byron. I'm still making my way through this one, but I definitely see some of the inspiration for Childe — the way he's always traveling far away from home, never quite satisfied. The way he's lonely.
 

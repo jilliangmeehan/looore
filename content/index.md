@@ -18,6 +18,9 @@ If you're on desktop, you might see a handy little "Explorer" in the left sideba
 
 | Page                                     | Recently updated |
 | ---------------------------------------- | ---------------- |
+| [[Childe]]                               | August 27, 2024  |
+| [[Pierro]]                               | August 27, 2024  |
+| [[Emilie's story quest is about Pierro]] | August 27, 2024  |
 | [[Natlan timeline (maybe)]]              | August 27, 2024  |
 | [[Chain Breaker]]                        | August 27, 2024  |
 | [[Earthshaker]]                          | August 27, 2024  |

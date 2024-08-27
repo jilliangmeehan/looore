@@ -60,7 +60,7 @@ Perhaps it was the vanity of the winged dragon that offended the Lord of the Nig
 > [!jillian]
 > Okay this is fun. Makes it sound like the leaders of the other two realms — the Void Realm and the Human Realm — both decided they needed to send a guy to deal with the new "leader" of the Light Realm. This is especially interesting because it is *thought* that the Void Realm cannot work effectively with the other two realms.
 > 
-> I like the idea that [[Chaac]] was hand-picked by the gods as the best person for this task, even though he's known as "the fool." He pairs perfectly with a sage. (Yes I'm thinking about Pierro.)
+> I like the idea that [[Chaac]] was hand-picked by the gods as the best person for this task, even though he's known as "the fool." He pairs perfectly with a sage. (Yes I'm thinking about [[Pierro]].)
 
 Under the protection of the Lord of the Night, the two arrived in the red and black lands, and far away, they saw that radiant winged dragon. Waxaklahun Ubah Kan was in no hurry to rush onward, but rather made a blowdart from bamboo, and struck the winged dragon's eye with a single shot. 
 

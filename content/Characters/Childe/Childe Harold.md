@@ -9,7 +9,7 @@ tags:
   - reference
 draft:
 ---
-[Childe Harold's Pilgrimage](https://en.wikipedia.org/wiki/Childe_Harold%27s_Pilgrimage?useskin=vector) is a narrative poem by Lord Byron that I think relates to Childe. I'm still making my way through it, so I don't have any grand analysis or anything — but I wanted to keep track of some interesting excerpts here.
+[Childe Harold's Pilgrimage](https://en.wikipedia.org/wiki/Childe_Harold%27s_Pilgrimage?useskin=vector) is a narrative poem by Lord Byron that I think relates to [[Childe]]. I'm still making my way through it, so I don't have any grand analysis or anything — but I wanted to keep track of some interesting excerpts here.
 
 ---
 

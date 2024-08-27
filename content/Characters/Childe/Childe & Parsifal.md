@@ -11,7 +11,7 @@ tags:
 draft:
 ---
 ## Childe
-There are a lot of parallels between [[Parsifal|Parsifal]] and Childe — the Heart of Depth artifact set, the resemblance Childe has to the guy on the HoD TCG card, the fact that he uses the Freedom talent books from Mondstadt, etc. (The dead blue eyes also make me think a little bit of the Blue-Eyed Spear Witch, but that's a brainrot for another day.)
+There are a lot of parallels between [[Parsifal|Parsifal]] and [[Childe]] — the Heart of Depth artifact set, the resemblance Childe has to the guy on the HoD TCG card, the fact that he uses the Freedom talent books from Mondstadt, etc. (The dead blue eyes also make me think a little bit of the Blue-Eyed Spear Witch, but that's a brainrot for another day.)
 
 Ashikai has a good video about this that I think will cover everything quicker & more efficiently than I can:
 

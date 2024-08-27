@@ -15,3 +15,4 @@ flowchart TD
 A[Land in Teyvat is infertile] --> B[People can't grow food] --> C[People turn to Alchemy to create food] --> D[Eating food created with alchemy causes corruption] --> E[When people die, their corrupted bodies further pollute the land] --> A
 ```
 
+With what we know from [[Records of Hanan Pacha]], there's the added detail that eating food grown from Teyvat's soil tethers you to the Night Kingdom, so you can't leave. 

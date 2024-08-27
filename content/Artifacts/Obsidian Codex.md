@@ -169,7 +169,7 @@ For it knew that the foes in the shadows were not far off. Indeed, they still hi
 > 
 > The Sage of Sacred Flame knew the whole time that neither the Primordial One nor Nibelung alone were enough to fight "the foes in the shadows" — which is why he gave the Sacred Flame (and therefore knowledge and strength) to humanity. 
 > 
-> I think this is similar to Pierro's ultimate goal (fitting that he's also a sage). I think he wants to take it a step further and create a being that is part-dragon, part-divine, part-human, and part-abyssal. 
+> I think this is similar to [[Pierro]]'s ultimate goal (fitting that he's also a sage). I think he wants to take it a step further and create a being that is part-dragon, part-divine, part-human, and part-abyssal. 
 > 
 > The "foes in the shadows" could be the Night Kingdom, since it says they "hid in the night's deepest depths, waiting to strike a final blow" and they were already referred to as his "great foes." But it could also be the Abyss, hiding in the night realm.
 

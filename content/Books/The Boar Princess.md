@@ -53,7 +53,7 @@ Even the bravest, strongest Boar King could not withstand the frigid tundra. "Oi
 There lived but a single lone wolf pup in that place.  
 
 > [!jillian]
-> i have had so many theories over time about who the wolf pup is (pierro, varka, capitano — even childe, at one point) but none of them feel right. it doesn't help that the wolf pup isn't even mentioned in the version of this story that appears in [[The Little Witch and the Undying Fire]] — is it possible he was invented by the hexenzirkel for the story? why?
+> i have had so many theories over time about who the wolf pup is ([[pierro]], varka, capitano — even [[childe]], at one point) but none of them feel right. it doesn't help that the wolf pup isn't even mentioned in the version of this story that appears in [[The Little Witch and the Undying Fire]] — is it possible he was invented by the hexenzirkel for the story? why?
 
 ---
   
@@ -191,7 +191,7 @@ And so, the spirit turned into an ice stream, and carried the persevering Prince
 After venturing though the bitter cold and the swirling storms, the Boar Princess finally saw the pup. Covered in ice, the poor pup's once bright blue eyes had now grown dim, and he had all but forgotten how to bark.  
 
 > [!jillian]
-> this part obviously always makes me think about childe — bright blue eyes growing dim.
+> this part obviously always makes me think about [[childe]] — bright blue eyes growing dim.
 
 "Aroo! You have come at the right moment, for I haven't had lunch yet!"  
 

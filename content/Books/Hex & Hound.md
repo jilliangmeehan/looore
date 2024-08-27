@@ -122,7 +122,7 @@ At this did Dietrich indeed calm down. He desired to ask the girl before him how
 "..."
 
 > [!jillian]
-> oh look, it's the line that makes me crazy. saying that nottfriga is "actually a gentle person" is just *way* too close to childe's voiceline about the tsartisa where he says she's "actually a gentle soul." 
+> oh look, it's the line that makes me crazy. saying that nottfriga is "actually a gentle person" is just *way* too close to [[childe]]'s voiceline about the tsartisa where he says she's "actually a gentle soul." 
 > 
 > does that mean nottfriga is the tsaritsa? is she the original cryo archon? i don't know dude. my head is spinning.
 

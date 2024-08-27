@@ -31,7 +31,7 @@ He eventually finds his sister in Elfland, who tells him that their two other br
 At that moment, the elf king comes in with the classic *"fee, fi, fo, fum"* and Childe Rowland fights him for the lives of his siblings. He wins, and agrees to spare the king's life if he lets his brothers and sister leave unharmed — and then all is well.
 
 ## Thoughts
-Obviously, this story loosely makes me think of Childe falling into the abyss and barely making it out alive. The dark tower itself reminds me of Khaenri'ah and the [Three Realms Gateway Offering](https://genshin-impact.fandom.com/wiki/Three_Realms_Gateway_Offering) event in Enkanomiya.
+Obviously, this story loosely makes me think of [[Childe]] falling into the abyss and barely making it out alive. The dark tower itself reminds me of Khaenri'ah and the [Three Realms Gateway Offering](https://genshin-impact.fandom.com/wiki/Three_Realms_Gateway_Offering) event in Enkanomiya.
 
 The idea of a "dark tower" being found in the light realm is so interesting to me — especially if you *do* relate it to the abyss or Khaenri'ah. Definitely fits with the whole **light vs. dark =/= good vs. evil** theme throughout Genshin.
 

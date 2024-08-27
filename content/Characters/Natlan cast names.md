@@ -63,3 +63,6 @@ This one is hard — the name might be a reference to [_Oroonoko_](https://e
 The other thing I found is a manga called [The Demon Ororon](https://en.wikipedia.org/wiki/The_Demon_Ororon), which is about the human daughter of the archangel Michael falling in love with Ororon, the King of Hell (who has abandoned his throne). It sounds very interesting, lol. 
 
 I guess the general theme here is you have some kind of noble who just wants to settle down with the girl he loves but cannot escape the violence & death that surrounds him as he tries to keep her safe. I'm also side-eyeing the very obvious quantum symbols on his scarf & hand.
+
+> [!jillian]
+> This is a very late addition, but it's come to my attention that this name probably comes from [Olorun](https://en.wikipedia.org/wiki/%E1%BB%8Cl%E1%BB%8Drun), the supreme creator of the universe in Yoruba culture. That's a pretty big one.

@@ -10,9 +10,9 @@ draft:
 publish: true
 ---
 ## Notes
-I think Perroux is Pierro (the names sound so similar, and it sounds like he did have sort of a lower position in Khaenri'ah) — and this story is about him helping King Irmin's daughter, the Tsaritsa, escape.
+I think Perroux is [[Pierro]] (the names sound so similar, and it sounds like he did have sort of a lower position in Khaenri'ah) — and this story is about him helping King Irmin's daughter, the Tsaritsa, escape.
 
-I don't know who she married, and I don't know who the Feline Firm are, and I don't really know why any of this would be happening or how it fits in with the rest of the story. But it *does* remind me a lot of [Lynette's hangout](https://genshin-impact.fandom.com/wiki/Detectives), which I *also* think is about Pierro smuggling the Tsaritsa out of Khaenri'ah — more on that [[Lynette's hangout is about Pierro|here]].
+I don't know who she married, and I don't know who the Feline Firm are, and I don't really know why any of this would be happening or how it fits in with the rest of the story. But it *does* remind me a lot of [Lynette's hangout](https://genshin-impact.fandom.com/wiki/Detectives), which I *also* think is about [[Pierro]] smuggling the Tsaritsa out of Khaenri'ah — more on that [[Lynette's hangout is about Pierro|here]].
 ## Contents
 ### Volume I
 > One day, the mysterious Feline Firm sends an invitation to the doorman Perroux... Just what kind of adventures await him?
