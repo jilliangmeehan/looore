@@ -32,6 +32,6 @@ For the giant beast, now lost to madness, despite its soul having been consumed 
 "We will answer to the fire for all our deeds. Amidst the flames, we shall be reunited."
 
 > [!jillian]
-> That "life marches ever on" line is echoed in [[Earthshaker]] — Yupanqui heard these words from a "silent priest." 
+> That "life marches ever on" line is echoed in [[Earthshaker]] — Yupanqui heard these words from a "silent priest." I wonder if that priest was the original holder of the Malipo name.
 > 
-> Kongamato's promise is to return the Turnfire ancient name to the Night Realm. I'm curious where this name comes from, because we know Kongamato's companion, Burkina, had a different ancient name.
+> Kongamato's promise is to return the Turnfire ancient name to the Night Realm. I'm curious where this name comes from, because we know Kongamato's companion, Burkina, had a different ancient name. (**Edit:** This was wrong — we know now that Burkina's ancient name, Malipo, *is* the Turnfire name.)

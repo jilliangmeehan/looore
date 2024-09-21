@@ -151,6 +151,8 @@ After the people were taught how to use the power of phlogiston, they built a ci
 > Now, the Sage is straight up telling people that all the food produced by the land is controlled by the Lord of the Night. And if they want to ascend higher and higher, and escape Teyvat, they cannot eat it.
 > 
 > The *other* important thing here is that he mentions the Source of All Waters — but whose control is this under? If it's elemental, is it under the Light Realm's control? If it was created by the gods, is it under Celestia's control? Or is it the one purely neutral force in this universe?
+> 
+> We now know (I'm sorry I don't remember where this information came from but I'm 100% positive about it) that the place where "water flows like light" is the Night Kingdom. So it's possible that the Night Kingdom *is* the Source of All Waters. 
 
 Chaac had no idea why they should go yet higher, and didn't want to leave Natlan. But whenever he went to ask Waxaklahun Ubah Kan this question, the latter would only speak of the "Lunar continent" and "Newark Holy Stone" and other stuff he couldn't understand. 
 

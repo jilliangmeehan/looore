@@ -187,9 +187,9 @@ Only by this could his stubborn kin awaken from the ancient, shattered dreams of
 In the era when the dark tide of filth arose from the sky's edge and heroes sun-bright marched forth to conquer, many stories transpired that were never recorded or lauded in any human history. 
 
 > [!jillian]
-> This "dark tide of filth" is mentioned throughout a lot of Natlan lore — I don't think it's referring to the cataclysm, because it seems to be much earlier in history, but it definitely sounds like an attack from the Abyss. In particular, it's the probably one mentioned in [[Talking Stick]]. 
+> This "dark tide of filth" is the cataclysm, and the "heroes sun-bright" are [[Tenoch]]'s group from [[Talking Stick]] (as well as the many other Natlan warriors that fought the Abyss).
 > 
-> I'm not sure yet if this is happening at the same time as whatever's going on in [[Scroll of the Hero of Cinder City]], but I suspect it's much earlier than that.
+> This is also probably happening at the same time as whatever's going on in [[Scroll of the Hero of Cinder City]].
 
 When human warriors bid farewell to their secluded villages and brought blessings of the Wayob to once-inaccessible, forbidden realms, the ancient dragons had become extinct from the fields they once ran upon, and the fruitful soil and springs had taken upon new colors.
 
@@ -218,3 +218,9 @@ Under the sun's radiance did the tribes make a pact of ceasefire, and thus did t
 > On the other hand, Tenoch could be our classic God King of Natlan. The Decarabian, the Deshret, the Remus, etc. Always the founder of a great city, always the beginning of a new era, and usually associated with the [[Sun|sun]]. The Pyro Archon will likely have to clean up his mess.
 > 
 > Btw — the mention here that "the sacred ones of the night realm" offered him "the crown" is what makes me think that the Night Kingdom is the second world in the whole "savior of two worlds" thing. The "beasts of darkness" are definitely the Abyss.
+> 
+> > [!jillian]
+> > We have more information now — the Pyro Archon, Mavuika, might have already been asleep. So maybe Tenoch kinda *was* the acting leader at the time. 
+> > 
+> > Maybe the Wayob "offering him the crown" was him getting his ancient name.
+

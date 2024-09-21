@@ -16,7 +16,7 @@ Long, long ago, in what now is seen as an age of myth, when great dragons still 
 > [!jillian]
 > These may or may not be the same twin heroes from [[Unfinished Reverie]]. 
 > 
-> Fun fact: [[[Xbalanque]] is also a hero twin.](https://en.wikipedia.org/w/index.php?title=Maya_Hero_Twins)
+> Fun fact: [[Xbalanque]] is also a [hero twin.](https://en.wikipedia.org/w/index.php?title=Maya_Hero_Twins)
 
 "Father lost his life due to the Dragonlord's impulsive whims, and Mother sacrificed herself to protect her children."
 

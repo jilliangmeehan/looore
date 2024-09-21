@@ -23,7 +23,7 @@ The beast tamers are those who focus on building friendships with Saurians. Thei
 Those were monsters who could never be understood, beasts with whom peace could never be made. When he finally returned to his hometown, all he saw were dreams ripped to shreds by monstrous claws running amok. Settlings the tribespeople fortunate enough to survive, the beast tamer, no longer young, embarked on a journey from which there could be no return. This time, his foes were the heartless demons that came in with that dark tide, and dealing with them, too, required patience. For only patience could ensure that not one of them was left to plague the land he held dear.
 
 > [!jillian] 
-> This "black tide" is the Abyss — just like the threat mentioned in [[Talking Stick]]. (But this is not necessarily at that same time.)
+> This "black tide" is the cataclysm — also mentioned in [[Talking Stick]]. 
 
 Legends hold that the ancient serpent king once forged a secret, Abyss-repelling treasure that could only be retrieved from the filth-ridden ancient city. Perhaps such was simply the wishful thinking of those who dwelled deep in despair, but for the brave, this hope was yet worth a try. At the end of his journey, the warrior bereft of his home would reach the burned-out city, and there come face to face with a secret long buried.
 

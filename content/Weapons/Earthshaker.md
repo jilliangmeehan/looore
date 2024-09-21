@@ -39,3 +39,7 @@ Though it is true that countless enemies fell to the swings of his greatsword, o
 "One day, you will understand why you embarked on this verdant path."
 
 "By past fuel, and present flame, life marches ever on."
+
+> [!jillian]
+> Now we know where this quote comes from! It's basically the Turnfire oath.
+

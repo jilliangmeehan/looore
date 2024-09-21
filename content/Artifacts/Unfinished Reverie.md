@@ -26,6 +26,9 @@ And so, the ancient gloom, the moment that engulfs a million darknesses, came at
 > [!jillian]
 > The red-eyed youth should be [[Xbalanque]]. I don't totally understand what the "kingdom where water flowed as rays of light" is, but that's where he went after he "ascended." He's now coming back to help fight the Abyss.
 > 
+> > [!jillian]
+> > I have an answer to this now — the "kingdom where water flowed as rays of light" is the Night Kingdom. 
+> 
 > The "ineffable city" — is this [[Records of Hanan Pacha|Hanan Pacha]]? [[Scroll of the Hero of Cinder City|Cinder City]]?
 
 As he stepped into the floating garden, the raspy warning of the blind, stooped old woman still clutched at his ear:  
@@ -178,7 +181,7 @@ In contrast to the friends who had courageously sacrificed themselves, her life 
 One of the hero twins was once an incorrigible chatterbox, yet upon witnessing his brother die at the hands of their adversary, his tormented wails wracked his throat hoarse.
 
 > [!jillian]
-> [[Xbalanque]] went back to wherever he ascended to, and Yupanqui presumably died in the flames. "The new world reflected in his remaining eye" sounds very interesting. 
+> [[Xbalanque]] went back to wherever he ascended to (the Night Kingdom), and Yupanqui presumably died in the flames. "The new world reflected in his remaining eye" sounds very interesting. 
 
 "And yet Atawallpa, too, died before me... ==Who could have imagined that I, the frailest of us, would have lived to the end?==  
 "The wise amongst the tribes often say that those who have been tossed about by the winds and waves will grow tired of the steady ground, and I am no exception.  

@@ -21,7 +21,7 @@ As [[Tenoch]] gazed upon the vast burning plains, a turbid black tide welled up 
 "Tenoch belongs no longer to any tribe, yet his fury still burns, unquenched."
 
 > [!jillian] 
-> The "turbid black tide" is the Abyss.
+> The "turbid black tide" is the cataclysm.
 > 
 > This "fury" burning in Tenoch reminds me of the fury [[Maawe and Monetoo|Maawe]] was searching for. Is this a hint that Tenoch is part-dragon?
 

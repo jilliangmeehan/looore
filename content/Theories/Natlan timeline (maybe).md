@@ -12,9 +12,7 @@ draft:
 This is my attempt to string together everything we know about Natlan's history (from books, artifact descriptions, etc.) to make sense of the timeline. It's probably wrong, but I'm doing my best.
 
 > [!jillian] Title
-> **Sept 21, 2024:** I did get a bunch of stuff wrong! I'm going to go back through all my Natlan notes and attempt to correct them with what we know now, but that might take me some time.
-> 
-> The biggest thing I need to correct is where Tenoch falls on the timeline — we know now that he & his crew fought the Abyss during the cataclysm 500 years ago, not earlier like I originally thought. I can also now include Mavuika's whole situation.
+> **Sept 21, 2024:** I did get a bunch of stuff wrong! I did my best to go through all the Natlan notes I've made so far & correct them with what we know now. It's possible I missed stuff, or still have some things wrong, but I'll keep trying to update it when I can.
 
 ## The beginning
 If we go alllll the way back to the beginning — the Lunar Palace falls. I'm including this because of the [[Sage of Stolen Flame]]'s possible origins, with him wanting to go to the "Lunar continent." ([[Records of Hanan Pacha]])
@@ -66,18 +64,6 @@ Honestly, it's kind of a vague story, so I'm not really sure what the outcome of
 Some time after the human tribes had been around for a while, [[The Tale of Qoyllor and Ukuku|Qoyllor]] fell from the sky and married Ukuku, and they had a son named Kuntur. Qoyllor was convinced Ukuku betrayed her by keeping her missing star fragments, so she painted graffiti all over Natlan so her father, the Sun, would see it and rescue her. When he did, he also blinded Ukuku & basically cursed him to a life of darkness as punishment.
 
 I don't know if this is supposed to be a real, actual story in the history of Natlan or what, but I'm including it! Its placement in this timeline is a pure guess, tho.
-## The age of Tenoch
-At this point, the human tribes are all doing their thing. [[Tenoch]] seems to be part of the People of the Springs tribe (or is at least hanging out there for the time being, who knows) when [[Tupac]], the descendent of [[Footprint of the Rainbow|Uenuku]], returns to get the [[Ash-Graven Drinking Horn]] from him. They fight over it, and Tupac wins.
-
-Tenoch becomes a wanderer, belonging to no tribes. It seems like they all kinda hate him for some reason, actually. 
-### The first Abyssal tide
-The threat of the Abyss looms on the horizon for, as far as we know, the first time in the history of Natlan's human tribes. All the tribal leaders are too busy fighting with each other to properly deal with it, so Tenoch takes matters into his own hands. With his [[Talking Stick]], he recruits heroes from each tribe to fight the Abyss with him.
-
-One of these heroes is Burkina, the companion of Kongamato the Mountain Lord. Burkina seems to have died in this fight, leaving Kongamato with a duty to protect the "Turnfire" name and return it to the Sacred Flame. But Kongamato is corrupted by the Abyss, and gradually forgets who gave him that duty. ([[Fang of the Mountain King]])
-
-The description of this event in [[Obsidian Codex]] is really interesting — it kinda paints Tenoch as an emerging sun deity or something. This moment also kinda seems like a precursor to what becomes the Night Warden Wars in the Pilgrimage to the Sacred Flame. 
-
-While this is going on, the Volcano Lord's arm is also being pinned down by nails by Traore and the Children of Echoes tribe ([[The Volcano Lord and the Shadow Pins]]).
 ## The first Pyro Archon
 At some point, Xbalanque meets the future [[Sacred Lord]], who is imprisoned (and probably in his dragon form). He shows him "great compassion," which makes the Sacred Lord love him. 
 
@@ -102,10 +88,24 @@ The Flower-Feather clan is founded by Liongo, who was adopted by a dragon matria
 Also around this time, Venti wakes up from a nap and meets Vennessa and her tribe in Monstadt. My guess is this was a liiiiittle bit after the founding of the Flower-Feather clan, because they seem like they might be some kind of offshoot of them, but they've come a long way & Vennessa doesn't really have any memories of Natlan that we know of.
 
 Venti calls the Pyro Archon "Murata," so Xbalanque has already been succeeded at least once.
-## The second Abyssal tide
-Sometime later, there's another attack attack from the Abyss. This time, we know they also attacked the Night Kingdom, so a bunch of warriors from Natlan went there to defend it. The entire nation was at war.
 
-During this, some people from each tribe went to the ruins of [[Scroll of the Hero of Cinder City|Cinder City]] to look for a secret they heard about that they believe would help their people in this war. Liliwu, a mystic from the Night-Wind tribe, is the only one of her group who survived the trip — the rest were apparently eaten by the dragon living in the city's remains. (Might be the [[Sacred Lord]].)
+## 500 years ago
+### The age of Tenoch
+At this point, the human tribes are all doing their thing. [[Tenoch]] seems to be part of the People of the Springs tribe (or is at least hanging out there for the time being, who knows) when [[Tupac]], the descendent of [[Footprint of the Rainbow|Uenuku]], returns to get the [[Ash-Graven Drinking Horn]] from him. They fight over it, and Tupac wins.
+
+Tenoch becomes a wanderer, belonging to no tribes. It seems like they all kinda hate him for some reason, actually. 
+### The cataclysm
+The threat of the Abyss looms on the horizon, and the Night Kingdom is under attack. Warriors from every tribe are sent to the Night Kingdom to fight. Mavuika, the current Pyro Archon, goes to sleep for the next 500 years — putting some kind of plan in motion related to an "oath" she made. (Capitano also knows about this oath, implying that he was there at the time.)
+
+All the tribal leaders are too busy fighting with each other to properly deal with the situation without the Pyro Archon, so Tenoch steps up and takes matters into his own hands. With his [[Talking Stick]], he recruits heroes from each tribe to fight the Abyss with him. 
+
+One of these heroes is Burkina, the companion of Kongamato the Mountain Lord. Burkina died, leaving Kongamato with a duty to protect the "Turnfire" name and return it to the Sacred Flame. But Kongamato is corrupted by the Abyss, and gradually forgets who gave him that duty. ([[Fang of the Mountain King]])
+
+The description of this event in [[Obsidian Codex]] is really interesting — it kinda paints Tenoch as an emerging sun deity or something. This moment also kinda seems like a precursor to what becomes the Night Warden Wars in the Pilgrimage to the Sacred Flame. 
+
+While this is going on, the Volcano Lord's arm is also being pinned down by nails by Traore and the Children of Echoes tribe — or, at least, that's the story they tell. It could just be the Children of Echoes defending their land from the Abyss. ([[The Volcano Lord and the Shadow Pins]]).
+
+During all this, some people from each tribe went to the ruins of [[Scroll of the Hero of Cinder City|Cinder City]] to look for a secret they heard about that they believe would help their people in this war. Liliwu, a mystic from the Night-Wind tribe, is the only one of her group who survived the trip — the rest were apparently eaten by the dragon living in the city's remains. (Might be the [[Sacred Lord]].)
 
 The scholar from the Children of Echoes tribe did still manage to find the Secret Source Machines he was looking for, and was able to modify them for use in battle. I don't know if he died with the rest of the group after that, or if he was just doing his own thing.
 
