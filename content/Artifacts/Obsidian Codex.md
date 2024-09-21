@@ -220,7 +220,7 @@ Under the sun's radiance did the tribes make a pact of ceasefire, and thus did t
 > Btw — the mention here that "the sacred ones of the night realm" offered him "the crown" is what makes me think that the Night Kingdom is the second world in the whole "savior of two worlds" thing. The "beasts of darkness" are definitely the Abyss.
 > 
 > > [!jillian]
-> > We have more information now — the Pyro Archon, Mavuika, might have already been asleep. So maybe Tenoch kinda *was* the acting leader at the time. 
+> > We have more information now — the Pyro Archon, Mavuika, might have already been asleep. So maybe Tenoch kinda was the acting leader at the time. 
 > > 
 > > Maybe the Wayob "offering him the crown" was him getting his ancient name.
 
