@@ -16,9 +16,10 @@ Genshin Impact lore is really cool & interesting — there are so many theme
 
 If you're on desktop, you might see a handy little "Explorer" in the left sidebar, where you can browse posts by category. You can also just start searching for anything you're interested in, and some pages will probably come up. Or you can just check out our most recent posts:
 
-| Page              | Recently updated   |
-| ----------------- | ------------------ |
-| [[Sept 21, 2024]] | September 21, 2024 |
+| Page                        | Recently updated   |
+| --------------------------- | ------------------ |
+| [[Sept 21, 2024]]           | September 21, 2024 |
+| [[Natlan timeline (maybe)]] | September 21, 2024 |
 
 
 [^1]: [Travel Notes: Catch the Wind](https://genshin-impact.fandom.com/wiki/Travel_Notes:_Catch_the_Wind)

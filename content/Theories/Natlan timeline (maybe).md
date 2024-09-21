@@ -11,6 +11,9 @@ draft:
 ---
 This is my attempt to string together everything we know about Natlan's history (from books, artifact descriptions, etc.) to make sense of the timeline. It's probably wrong, but I'm doing my best.
 
+> [!jillian] Title
+> **Sept 21, 2024:** I did get a bunch of stuff wrong! I'm going to go back through all my Natlan notes and attempt to correct them with what we know now. 
+
 ## The beginning
 If we go alllll the way back to the beginning — the Lunar Palace falls. I'm including this because of the [[Sage of Stolen Flame]]'s possible origins, with him wanting to go to the "Lunar continent." ([[Records of Hanan Pacha]])
 
