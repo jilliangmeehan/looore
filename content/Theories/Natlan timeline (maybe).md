@@ -12,7 +12,9 @@ draft:
 This is my attempt to string together everything we know about Natlan's history (from books, artifact descriptions, etc.) to make sense of the timeline. It's probably wrong, but I'm doing my best.
 
 > [!jillian] Title
-> **Sept 21, 2024:** I did get a bunch of stuff wrong! I'm going to go back through all my Natlan notes and attempt to correct them with what we know now. 
+> **Sept 21, 2024:** I did get a bunch of stuff wrong! I'm going to go back through all my Natlan notes and attempt to correct them with what we know now, but that might take me some time.
+> 
+> The biggest thing I need to correct is where Tenoch falls on the timeline — we know now that he & his crew fought the Abyss during the cataclysm 500 years ago, not earlier like I originally thought. I can also now include Mavuika's whole situation.
 
 ## The beginning
 If we go alllll the way back to the beginning — the Lunar Palace falls. I'm including this because of the [[Sage of Stolen Flame]]'s possible origins, with him wanting to go to the "Lunar continent." ([[Records of Hanan Pacha]])
@@ -41,7 +43,6 @@ Monetoo also exist at this time, and are able to sing songs that can rescue some
 Sometime in here, the [[Sage of Stolen Flame]] is sitting on a throne behind an obsidian gate (probably in the Night Kingdom).
 ## Hanan Pacha
 While [[Xiuhcoatl]] is asleep, one of his scions steals all his stuff and basically proclaims himself the acting Volcano Lord. He gets into a bunch of mischief for years, bothering all the tribes. 
-
 
 > [!jillian]
 > This part doesn't match up perfectly. [[Records of Hanan Pacha]] says Chaac & the [[Sage of Stolen Flame]] managed to kill him, but there are later stories of the tribes and Pyro Archon dealing with him ([[Surf's Up]], [[The Volcano Lord and the Shadow Pins]], possibly [[Ring of Yaxche]]).
