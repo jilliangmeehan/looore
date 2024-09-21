@@ -11,7 +11,7 @@ draft:
 ---
 This is my attempt to string together everything we know about Natlan's history (from books, artifact descriptions, etc.) to make sense of the timeline. It's probably wrong, but I'm doing my best.
 
-> [!jillian] Title
+> [!jillian]
 > **Sept 21, 2024:** I did get a bunch of stuff wrong! I did my best to go through all the Natlan notes I've made so far & correct them with what we know now. It's possible I missed stuff, or still have some things wrong, but I'll keep trying to update it when I can.
 
 ## The beginning
