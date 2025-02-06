@@ -16,20 +16,20 @@ Genshin Impact lore is really cool & interesting — there are so many theme
 
 If you're on desktop, you might see a handy little "Explorer" in the left sidebar, where you can browse posts by category. You can also just start searching for anything you're interested in, and some pages will probably come up. Or you can just check out our most recent posts:
 
-| Page                                  | Recently updated   |
-| ------------------------------------- | ------------------ |
-| [[Sept 21, 2024]]                     | September 21, 2024 |
-| [[Natlan timeline (maybe)]]           | September 21, 2024 |
-| [[Talking Stick]]                     | September 21, 2024 |
-| [[Earthshaker]]                       | September 21, 2024 |
-| [[Ring of Yaxche]]                    | September 21, 2024 |
-| [[Fang of the Mountain King]]         | September 21, 2024 |
-| [[Tupac]]                             | September 21, 2024 |
-| [[Tenoch]]                            | September 21, 2024 |
-| [[Records of Hanan Pacha]]            | September 21, 2024 |
-| [[Unfinished Reverie]]                | September 21, 2024 |
-| [[Scroll of the Hero of Cinder City]] | September 21, 2024 |
-| [[Obsidian Codex]]                    | September 21, 2024 |
+| Page                          | Recently updated |
+| ----------------------------- | ---------------- |
+| [[Mondstadt Gastronomy Trip]] | February 6, 2025 |
+
+
+
+
+
+
+
+
+
+
+
 
 
 [^1]: [Travel Notes: Catch the Wind](https://genshin-impact.fandom.com/wiki/Travel_Notes:_Catch_the_Wind)
