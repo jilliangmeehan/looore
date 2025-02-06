@@ -1,5 +1,5 @@
 ---
-title: "Xiangling Story Quest: Mondstadt Gastronomy Trip"
+title: Xiangling's Story Quest
 description: 
 author:
   - jillian
