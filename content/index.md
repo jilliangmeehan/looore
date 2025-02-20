@@ -16,9 +16,10 @@ Genshin Impact lore is really cool & interesting — there are so many theme
 
 If you're on desktop, you might see a handy little "Explorer" in the left sidebar, where you can browse posts by category. You can also just start searching for anything you're interested in, and some pages will probably come up. Or you can just check out our most recent posts:
 
-| Page                          | Recently updated |
-| ----------------------------- | ---------------- |
-| [[Mondstadt Gastronomy Trip]] | February 6, 2025 |
+| Page                          | Recently updated  |
+| ----------------------------- | ----------------- |
+| [[Against All Odds]]          | February 20, 2025 |
+| [[Mondstadt Gastronomy Trip]] | February 6, 2025  |
 
 
 
