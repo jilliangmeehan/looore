@@ -1,8 +1,9 @@
 ---
 title: Moon
-description: 
-author: 
-aliases: 
+description:
+author:
+  - jillian
+aliases:
 tags:
   - motifs
 draft:

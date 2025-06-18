@@ -1,13 +1,13 @@
 ---
 title: Potential Natlan timeline
-description: 
+description:
 author:
   - jillian
-aliases: 
+aliases:
 tags:
   - theory
   - natlan
-draft:
+draft: false
 ---
 This is my attempt to string together everything we know about Natlan's history (from books, artifact descriptions, etc.) to make sense of the timeline. It's probably wrong, but I'm doing my best.
 

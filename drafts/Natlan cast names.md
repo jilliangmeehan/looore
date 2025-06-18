@@ -1,13 +1,13 @@
 ---
 title: Natlan cast names
-description: 
+description:
 author:
   - jillian
-aliases: 
+aliases:
 tags:
   - characters
   - natlan
-draft:
+draft: true
 ---
 We have names and faces for the Natlan cast! Let's look at them.
 

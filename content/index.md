@@ -16,10 +16,21 @@ Genshin Impact lore is really cool & interesting — there are so many theme
 
 If you're on desktop, you might see a handy little "Explorer" in the left sidebar, where you can browse posts by category. You can also just start searching for anything you're interested in, and some pages will probably come up. Or you can just check out our most recent posts:
 
-| Page                          | Recently updated  |
-| ----------------------------- | ----------------- |
-| [[Against All Odds]]          | February 20, 2025 |
-| [[Mondstadt Gastronomy Trip]] | February 6, 2025  |
+| Page                             | Recently updated  |
+| -------------------------------- | ----------------- |
+| [[Artifacts]]                    | June 17, 2025     |
+| [[Circlet of Logos]]             | June 17, 2025     |
+| [[Flower of Life]]               | June 17, 2025     |
+| [[Goblet of Eonothem]]           | June 17, 2025     |
+| [[Plume of Death]]               | June 17, 2025     |
+| [[Sands of Eon]]                 | June 17, 2025     |
+| [[Four Shades]]                  | June 17, 2025     |
+| [[Stygian Onslaught Weapons]]    | June 17, 2025     |
+| [[Finale of the Deep Galleries]] | June 17, 2025     |
+| [[Long Night's Oath]]            | June 17, 2025     |
+| [[Song of the Welkin Moon]]      | June 17, 2025     |
+| [[Against All Odds]]             | February 20, 2025 |
+| [[Mondstadt Gastronomy Trip]]    | February 6, 2025  |
 
 
 
