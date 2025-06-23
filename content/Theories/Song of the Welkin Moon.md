@@ -63,3 +63,7 @@ Ad astra abyssosque! The Guild's strong presence in an adventurer's paradise lik
 
 #### Clink-Clank Krumkake Craftshop
 It began as a small workshop that a certain prodigy used to research the "World's Best Krumkake Machine." But over time, after the creation of many intricate inventions, it gained a new identity as a famous machine workshop. Be sure to mind your manners when begging that genius for a favor, though, or whatever component she gives you might be liable to cough out a nasty krumkake at any time!
+
+
+> [!jillian] 
+> Based on her [drip marketing](https://x.com/GenshinImpact/status/1937088497220804745), Ineffa seems to come from Clink-Clank Krumkake Craftshop.
