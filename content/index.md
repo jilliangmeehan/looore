@@ -18,6 +18,8 @@ If you're on desktop, you might see a handy little "Explorer" in the left sideba
 
 | Page                             | Recently updated  |
 | -------------------------------- | ----------------- |
+| [[What to know before Nod-Krai]] | June 23, 2025     |
+| [[Moon]]                         | June 23, 2025     |
 | [[Artifacts]]                    | June 17, 2025     |
 | [[Circlet of Logos]]             | June 17, 2025     |
 | [[Flower of Life]]               | June 17, 2025     |
