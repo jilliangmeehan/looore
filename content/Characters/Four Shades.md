@@ -21,7 +21,7 @@ The [Four Shades](https://genshin-impact.fandom.com/wiki/Four_Shades) were creat
 | Asmoday \| Sustainer of Heavenly Principles | Space  | [[Goblet of Eonothem]] | Bow                                   | Missing                                                                                      |
 | Primordial One \| Heavenly Principles       | Reason | [[Circlet of Logos]]   | Claymore                              | Unknown                                                                                      |
 
-## chapter interlude teaser
+## Chapter Interlude Teaser
 This video shows us three of the Shades (Rhinedottir, Ronova, and Istaroth) and confirms that the fourth (Asmoday) is "missing." Obviously, the leading theory is that Paimon is Asmoday. Other than that, my thoughts about this teaser are still a little scattered so I don't have much extra to contribute yet!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jvXVmvW8ZQw?si=OPkk9mAmDIt_NFUO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -36,7 +36,7 @@ A few things I'll note, I guess:
 
 There are probably lots of good theories about this teaser all over the place, but this dropped while I was traveling so I'm still kind of catching up and wrapping my head around it.
 
-## alice
+## Alice
 In Skirk's voice lines, she calls Alice the "Sustainer of the World's Borders," which previously made me think Alice might have taken up the mantle of one of the Shades like Rhinedottir did — but Alice is clearly not in the teaser, so I'm not sure where that leaves me. 
 
 Maybe being a Sustainer is a separate responsibility from being a Shade, and Asmoday just happens to be both. Maybe one of the Shades *is* supposed to be the Sustainer of the World's Borders but has given that responsibility to Alice while maintaining their other duties. No idea!
