@@ -27,6 +27,9 @@ This video shows us three of the Shades (Rhinedottir, Ronova, and Istaroth) and 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jvXVmvW8ZQw?si=OPkk9mAmDIt_NFUO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 A few things I'll note, I guess:
+- The first thing we see is what I *assume* is a white crow — which is kind of the Russian version of a [black sheep](https://en.wikipedia.org/w/index.php?title=Black_sheep)
+	- There is also a biopic about [Rudolf Nureyev](https://en.wikipedia.org/wiki/Rudolf_Nureyev) called *The White Crow*
+	- You could argue that this bird is a dove, since that pairs nicely with seeing Columbina at the end, but it just doesn't look very dove-shaped to me
 - The woman with purple eyes at the beginning is Andersdottir — or, at least, Rhinedottir's recreation of her as an experiment
 - Venti and Istaroth share a voice actor, and Venti clearly takes some design inspiration from her, which makes sense since he kinda came from her
 	- This does make me wonder if the bard Venti took the image of was even a real person at all or if it was just Istaroth meddling
