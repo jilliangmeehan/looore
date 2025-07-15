@@ -37,6 +37,8 @@ A few things I'll note, I guess:
 There are probably lots of good theories about this teaser all over the place, but this dropped while I was traveling so I'm still kind of catching up and wrapping my head around it.
 
 ## Alice
-In Skirk's voice lines, she calls Alice the "Sustainer of the World's Borders," which previously made me think Alice might have taken up the mantle of one of the Shades like Rhinedottir did — but Alice is clearly not in the teaser, so I'm not sure where that leaves me. 
+In [Skirk's voice lines](https://genshin-impact.fandom.com/wiki/Skirk/Voice-Overs), she calls Alice the "Sustainer of the World's Borders," which previously made me think Alice might have taken up the mantle of one of the Shades like Rhinedottir did — but Alice is clearly not in the teaser, so I'm not sure where that leaves me. 
+
+> As the Sustainer of the World's Borders, she tolerates my presence, but she did make me promise not to interfere too much with this world's affairs. That was fine by me, but I had to know the reason why. She said, many ecologists find it emotionally overwhelming when they observe the animal kingdom and see the predators hunting and the prey fleeing — but they'll never interfere in the process. Instead, they allow the laws of nature to take precedence over their own emotions. In her own words, "some call this being a callous observer, but I think it's merciful at the same time."
 
 Maybe being a Sustainer is a separate responsibility from being a Shade, and Asmoday just happens to be both. Maybe one of the Shades *is* supposed to be the Sustainer of the World's Borders but has given that responsibility to Alice while maintaining their other duties. No idea!
