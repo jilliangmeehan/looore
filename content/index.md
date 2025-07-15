@@ -18,6 +18,7 @@ If you're on desktop, you might see a handy little "Explorer" in the left sideba
 
 | Page                             | Recently updated  |
 | -------------------------------- | ----------------- |
+| [[Four Shades]]                  | July 15, 2025     |
 | [[What to know before Nod-Krai]] | June 23, 2025     |
 | [[Moon]]                         | June 23, 2025     |
 | [[Artifacts]]                    | June 17, 2025     |
@@ -26,7 +27,6 @@ If you're on desktop, you might see a handy little "Explorer" in the left sideba
 | [[Goblet of Eonothem]]           | June 17, 2025     |
 | [[Plume of Death]]               | June 17, 2025     |
 | [[Sands of Eon]]                 | June 17, 2025     |
-| [[Four Shades]]                  | June 17, 2025     |
 | [[Stygian Onslaught Weapons]]    | June 17, 2025     |
 | [[Finale of the Deep Galleries]] | June 17, 2025     |
 | [[Long Night's Oath]]            | June 17, 2025     |
