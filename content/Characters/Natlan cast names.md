@@ -7,7 +7,7 @@ aliases:
 tags:
   - characters
   - natlan
-draft: true
+draft: false
 ---
 We have names and faces for the Natlan cast! Let's look at them.
 

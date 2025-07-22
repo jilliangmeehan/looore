@@ -26,12 +26,15 @@ The wheel of fate points in eleven directions.
 
 ### Inner three
 #### Fatui
+![[Pasted image 20250722163807.png]]
 The "Palestar Edict," that highest of commands, has gone out. With it, the Fatui Harbingers have been summoned back to Snezhnaya and dispatched to Nod-Krai. The people stare and wonder: for what purpose does this army, bearing the banner of the Pale Star, come to their city? Or perhaps the question should be, "For whom?"
 
 #### Frostmoon Scions
+![[Pasted image 20250722163815.png]]
 The descendants of the legendary golden realm, who chose to find new homes among the mountains and forests after abandoning their ancient civilizaion. The only thing they never forsook was their faith in the "Moon Goddess." However, with the arrival of the Fatui, it appears that their tranquil lives are about to fade into the realm of yesterday...
 
 #### Lightkeepers
+![[Pasted image 20250722163834.png]]
 The ancient organization that has long defended Nod-Krai's freedom and peace against the ceaseless incursions and Wild Hunt attacks launched by the Abyss, now severely weakened from battles past. In the face of new threats, none can say for sure if the new generation of Ratniki will remain able to carry out their mission...
 
 ### Outer eight
@@ -39,18 +42,19 @@ The ancient organization that has long defended Nod-Krai's freedom and peace aga
 Located at the "edge" of the world, Nod-Krai has always been the stage where conflicts and dramas unfold, one after another — how could the Hexenzirkel possibly miss out on this golden opportunity?
 
 #### The Wild Hunt
+![[Pasted image 20250722163848.png]]
 The armies of the Abyss sweep across the wilderness and canyons like a storm, and if you venture close enough, you may even hear their eerie whispers. These lost, soulless monsters appear to be silently searching for something...
 
 #### Knights of Favonius
 A small group of elite knights from the Mondstadt expeditionary force has followed their Grand Master across Snezhnaya, arriving in Nod-Krai. It is said that they have come on a crucial mission...
 
 #### Voynich Guild
+![[Pasted image 20250722163858.png]]
 The merchants of Nasha Town formed a commerce guild to maintain basic order. However, how could the outlaws that prowl between the islands be controlled by something as simple as mere rules? It seems that the honor fear into their hearts must go to the boss lady of the "Curatorium of Secrets"...
 
 
 > [!jillian]
-> I'm kind of expecting the Voynich Guild to have something to do with alchemy, since the only thing that name could be referencing (afaik) is the [Voynich Manuscript](https://en.wikipedia.org/wiki/Voynich_manuscript?useskin=vector).
-
+> I'm kind of expecting the Voynich Guild to have something to do with alchemy, because of the [Voynich Manuscript](https://en.wikipedia.org/wiki/Voynich_manuscript?useskin=vector). *But*, the name could also be a reference to [Ethel Voynich](https://en.wikipedia.org/wiki/Ethel_Voynich), author of *The Gadfly.*
 
 #### Treasure Hoarders
 The Treasure Hoarders have since spread throughout the rest of Teyvat, but their origin in Nod-Krai remains a little-known fact. The "great treasure" left behind by Reed Miller, the legendary thief who yearned to create "a world without boundaries," is said to be buried somewhere here...
@@ -63,7 +67,3 @@ Ad astra abyssosque! The Guild's strong presence in an adventurer's paradise lik
 
 #### Clink-Clank Krumkake Craftshop
 It began as a small workshop that a certain prodigy used to research the "World's Best Krumkake Machine." But over time, after the creation of many intricate inventions, it gained a new identity as a famous machine workshop. Be sure to mind your manners when begging that genius for a favor, though, or whatever component she gives you might be liable to cough out a nasty krumkake at any time!
-
-
-> [!jillian] 
-> Based on her [drip marketing](https://x.com/GenshinImpact/status/1937088497220804745), Ineffa seems to come from Clink-Clank Krumkake Craftshop.
