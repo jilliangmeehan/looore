@@ -11,7 +11,9 @@ draft:
 I started writing about the [[Nod-Krai cast names]] from the latest trailer, but there are so many other little details that I want to make a note of that didn't fit there. I admit this is a little unstructured, so I'm sorry.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QWDyxSo-oq0?si=Rd7bQYaBay2QREih" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Description
+
 > She scatters dewdrops upon every bloom, 
 > And tints the twilight with a sheen of silver. 
 > 
@@ -45,10 +47,10 @@ Throughout the video, Nicole is narrating a story about the three moons:
 
 While she speaks, there is a shot of three different-colored moons turning into three separate beings — one of them looks a lot like a Seelie, while the other two look like women with long, flowing hair and a single horn. [^1]
 
-![[CleanShot 2025-07-22 at 16.14.58@2x.png]]
-When we finally see Nicole, she's approaching a place where it looks like some pillars are meeting together in the sky, almost like there's a mirror between them. 
+![[sisters.png]]
+When we finally see Nicole, she's approaching a place where it looks like some pillars are meeting together in the sky, almost like there's a mirror between them. From [[Song of the Welkin Moon]], we know this is Hiisi Island, where the Frostmoon Scions live.
 
-![[CleanShot 2025-07-22 at 16.20.13@2x.png]]
+![[hiisi.png]]
 She grows a glowing gold halo and matching wings, which look a lot like crystalfly wings. 
 
 ## Varka
@@ -71,7 +73,7 @@ Inside another room, Durin is sitting with Jahoda and Ineffa. Jahoda wakes up fr
 > [!jillian] 
 > I like how the living room they're sitting in has a cool mashup of interior design styles from other nations. It feels very fitting for Nod-Krai, which is a more independent area full of people from factions all over Teyvat, as well as Ineffa, who was made from parts taken from different parts of Teyvat.
 
-![[CleanShot 2025-07-22 at 16.13.33@2x.png]]
+![[krumkakeworkshop.png]]
 
 It's interesting that Varka and Durin both ended up at the Krumkake Workshop
 ## Sandrone
@@ -97,7 +99,7 @@ Columbina is standing in a field of flowers under the full moon. The flowers are
 
 At first, I thought she was in the [Sea of Flowers at the End](https://genshin-impact.fandom.com/wiki/The_Sea_of_Flowers_at_the_End), but these are clearly not the same flowers. They *are* very similar to the flowers that appear in Lauma's design — they have the same crescent moon shape in the center — but Lauma's flowers are white, not blue or red.
 
-![[CleanShot 2025-07-22 at 16.23.27@2x.png]]
+![[columbinaflowers.png]]
 Columbina still hasn't opened her eyes, which makes me wonder if she gave up her eyesight the same way Nicole gave up her voice. The [[Finale of the Deep Galleries]] artifact set also gave me lots of thoughts about Seelies covering their eyes.
 
 ## Alice
@@ -122,7 +124,7 @@ There are a couple possibilities here that I can't decide between:
 
 It seems like Alice, Albedo, and Wanderer have been traveling together and all just arrived in Nod-Krai. But Durin is already hanging out with the Clink-Clank Krumkake Workshop gang, which presumably means he's in the same vicinity as Varka. And Varka was *much* closer to the moon than Alice is in this scene, so I do not think they're all in the same place.
 
-There's also a shot of a crow (not a white one, but it still made me think of [[Four Shades||the Chapter Interlude video]] with the Four Shades) that flies away and turns into a paper crane to deliver Alice a letter that says "Aralos / Solnari / Cannon." 
+There's also a shot of a crow (not a white one, but it still made me think of [[Four Shades|the Chapter Interlude video]] with the Four Shades) that flies away and turns into a paper crane to deliver Alice a letter that says "Aralos / Solnari / Cannon." 
 
 > [!jillian] 
 > There's a line in [[Long Night's Oath]] about crows:

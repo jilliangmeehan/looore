@@ -33,7 +33,7 @@ Aside from the star-shaped pupils, her eyes have a vertical Venn diagram where t
 
 ## Aino
 ![[Aino.png]]
-All we know about Aino so far is that she created Ineffa, and is part of the [[Song of the Welkin Moon||Clink-Clank Krumkake Workshop]] in Nod-Krai. The name [Aino](https://en.wikipedia.org/wiki/Aino_(given_name)) is Finnish, and comes from a Finnish epic poem called [Kalevala](https://en.wikipedia.org/wiki/Kalevala). [^2]
+All we know about Aino so far is that she created Ineffa, and is part of the [[Song of the Welkin Moon|Clink-Clank Krumkake Workshop]] in Nod-Krai. The name [Aino](https://en.wikipedia.org/wiki/Aino_(given_name)) is Finnish, and comes from a Finnish epic poem called [Kalevala](https://en.wikipedia.org/wiki/Kalevala). [^2]
 
 The character [Aino](https://en.wikipedia.org/w/index.php?title=Aino_(character)) in Kalevala tries to drown herself after her brother promises her hand in marriage to a guy who beat him in a singing contest and then threw him into a swamp or something. She then becomes a [water spirit](https://en.wikipedia.org/w/index.php?title=Nixie_(folklore)). There's also [a symphonic poem](https://en.wikipedia.org/wiki/Aino_(Kajanus)) and [an opera](https://en.wikipedia.org/w/index.php?title=Aino_(Melartin)) based on the story of Aino, with a very slightly different version of events but basically the same outcome.
 
@@ -49,7 +49,7 @@ Aside from that, there is also a Serbo-Croatian word that means *[illusion](http
 He has [Wolf's Gravestone](https://genshin-impact.fandom.com/wiki/Wolf's_Gravestone) in the teaser, so he's obviously a claymore user. You can also see his vision in one shot, which looks Anemo to me. It's also really hard to tell, but I *kinda* think it looks like it only has two wings, like Kaeya's.
 ## Jahoda
 ![[Jahoda.png]]
-The name Jahoda means *[strawberry](https://en.wiktionary.org/wiki/jahoda)*! Easy enough. It is also [an actual surname](https://en.wikipedia.org/wiki/Jahoda) that real people have, although I don't think our Jahoda actually has anything to do with the people I could find on Wikipedia with that name. I think it's more likely they were just going for strawberry vibes.
+The name Jahoda means [strawberry](https://en.wiktionary.org/wiki/jahoda)! Easy enough. It is also [an actual surname](https://en.wikipedia.org/wiki/Jahoda) that real people have, although I don't think our Jahoda actually has anything to do with the people I could find on Wikipedia with that name. I think it's more likely they were just going for strawberry vibes.
 
 We can see that she has one mechanical arm, and she's hanging out with the Clink-Clank Krumkake Workshop folks. Can't see a vision anywhere, but her arm makes me think she'll be a catalyst user so she can do punchy stuff like Wriothesley.
 
@@ -64,10 +64,10 @@ We're all probably already familiar with the fact that [Sandrone](https://en.wik
 
 There is one fun thing I want to call out: in French, the word _marionnette_ means *little Mary*, which fits really well with [a theory that I love](https://www.reddit.com/r/Genshin_Lore/comments/1726229/who_is_sandrone_and_what_is_she_42_leak_spoilers/) about Sandrone being Alain Guillotin's puppet recreation of his sister Mary-Ann. I'm even more sold on the theory now that we've seen her again, because her hair & eyes match Mary-Ann's perfectly.
 
-I could also be wrong, but her big mech guy looks like he's glowing with Anemo energy.
+I could also be wrong, but her big mech guy looks like he's glowing with Anemo energy, whereas in the Winter Night's Lazzo teaser he had more of a yellow glow, like Geo. 
 ## Lauma
 ![[Lauma.png]]
-Lauma's name comes from an [Eastern Baltic goddess](https://en.wikipedia.org/wiki/Lauma) or "fairy-like woodland spirit." They sometimes had centaur-like forms, like our Lauma, and there are apparently stories of Lauma falling in love with the moon. In the teaser, she calls herself a loyal emissary of the "pale white Frostmoon," and a scion of Hyperborea, confirming that she is one of the [[Song of the Welkin Moon||Frostmoon Scions]]. 
+Lauma's name comes from an [Eastern Baltic goddess](https://en.wikipedia.org/wiki/Lauma) or "fairy-like woodland spirit." They sometimes had centaur-like forms, like our Lauma, and there are apparently stories of Lauma falling in love with the moon. In the teaser, she calls herself a loyal emissary of the "pale white Frostmoon," and a scion of Hyperborea, confirming that she is one of the [[Song of the Welkin Moon|Frostmoon Scions]]. 
 
 Her antlers are very in line with the origin of her name, and her pointed ears and silver blood indicate that she's a descendant of some divine being — maybe the Frost Moon. She *doesn't* have star-shaped pupils, though, and that's important. I'm also pretty sure the flowers in her design are based on [morning glories](https://en.wikipedia.org/wiki/Morning_glory) — but they have crescent moon symbols in the center, and they open when the moon is out instead of the sun.  
 
@@ -77,7 +77,7 @@ Her antlers are very in line with the origin of her name, and her pointed ears a
 Lastly: we can see her Dendro vision quite clearly!
 ## Nefer
 ![[Nefer.png]]
-The name Nefer could have a few intersecting origins. First, [*nefer*](https://en.wikipedia.org/wiki/Nefer) is an Egyptian hieroglyph that appears in the word for "good, beautiful." It also appears in the name of the Egyptian queen [Nefertiti](https://en.wikipedia.org/wiki/Nefertiti). You can kinda see how that might have influenced her design.
+The name Nefer could have a few intersecting origins. First, [*nefer*](https://en.wikipedia.org/wiki/Nefer) is an Egyptian hieroglyph that appears in the word for "good, beautiful." It also appears in the name of the Egyptian queen [Nefertiti](https://en.wikipedia.org/wiki/Nefertiti). You can see how that might have influenced her design.
 
 On the other hand, her name makes me think of the name [Yennefer](https://en.wikipedia.org/wiki/Yennefer) — and more specifically, [Yennefer of Vengerberg](https://en.wikipedia.org/w/index.php?title=List_of_characters_in_The_Witcher_series&useskin=vector#Yennefer_of_Vengerberg) from The Witcher. She just sorta has those witchy vibes.
 
@@ -89,7 +89,7 @@ We've got three whole names to work with here: Kyryll Chudomirovich Flins.
 
 I'm pretty sure Kyryll is meant to be a version of [Cyril](https://en.wikipedia.org/wiki/Cyril), an old Greek name (or a Slavic derivative like [Kirill](https://en.wikipedia.org/wiki/Kirill)). There are many interesting and important Cyrils, but one that caught my eye was [Cyril of Jerusalem](https://en.wikipedia.org/wiki/Cyril_of_Jerusalem)  — a saint who was supposedly "described as a preacher and liturgist by the pilgrim [Egeria](https://en.wikipedia.org/wiki/Egeria_\(pilgrim\))." There was also [a later Christian theologist](https://en.wikipedia.org/w/index.php?title=Cyril_and_Methodius) named Cyril who was partially responsible for creating the early Cyrillic alphabet in order to translate the Gospels into the Slavic languages.
 
-I've seen people saying that Chudomirovich is a patronymic, meaning "son of Chudomir." [Chudomir](https://en.wikipedia.org/wiki/Chudomir) is the name of a Bulgarian writer, although I haven't read any of his work yet. I've also seen some people saying *chudo* or *chudomir* mean "wonderland," which would be a cool little connection to Alice, but I can't find a real source on that.
+I've seen people saying that Chudomirovich is a patronymic, meaning "son of Chudomir" (And Chudomir is written on the gravestone in front of him). [Chudomir](https://en.wikipedia.org/wiki/Chudomir) is the name of a Bulgarian writer, although I haven't read any of his work yet. I've also seen some people saying *chudo* or *chudomir* mean "wonderland," which would be a cool little connection to Alice, but I can't find a real source on that.
 
 Flins is the most straightforward — it's the name of an "alleged" Slavic [deity](https://en.wikipedia.org/wiki/Flins_(mythology)) that could resurrect his worshippers when they died. The most interesting thing to me about Flins is that the accounts of him are really just about a supposed statue of him, sometimes destroyed or removed, but then restored.
 
@@ -103,7 +103,7 @@ It's interesting that her codename, Dameslette, doesn't appear here. Instead, we
 ![[Alice.png]]
 The most obvious origin of Alice's name is [Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland) and [Through the Looking-Glass](https://en.wikipedia.org/wiki/Through_the_Looking-Glass). Fontaine was already full of Alice in Wonderland references, but the [latest weekly boss](https://genshin-impact.fandom.com/wiki/The_Game_Before_the_Gate) being a giant chess board overseen by Alice herself makes it even more clear.
 
-Her name also probably comes from [Eris](https://en.wikipedia.org/wiki/Eris_(mythology), the Greek goddess of strife known for causing the Trojan War with the [Golden Apple of Discord](https://en.wikipedia.org/wiki/Apple_of_Discord) (which might be how [GAA](https://genshin-impact.fandom.com/wiki/Golden_Apple_Archipelago) got its name).
+Her name also probably comes from [Eris](https://en.wikipedia.org/wiki/Eris_(mythology)), the Greek goddess of strife known for causing the Trojan War with the [Golden Apple of Discord](https://en.wikipedia.org/wiki/Apple_of_Discord) (which might be how [GAA](https://genshin-impact.fandom.com/wiki/Golden_Apple_Archipelago) got its name).
 
 Her eyes and ears and very similar to Klee's, and she also has the same curly piece of hair as her (which the [[Four Shades]] also have, for some reason). Her Pyro vision is in a standard Mondstadt vision case, but also has a whole extra thing around it for decoration.
 
