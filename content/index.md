@@ -16,23 +16,24 @@ Genshin Impact lore is really cool & interesting — there are so many theme
 
 If you're on desktop, you might see a handy little "Explorer" in the left sidebar, where you can browse posts by category. You can also just start searching for anything you're interested in, and some pages will probably come up. Or you can just check out our most recent posts:
 
-| Page                             | Recently updated  |
-| -------------------------------- | ----------------- |
-| [[Moonlit Ballad of the Night]]  | July 22, 2025     |
-| [[Nod-Krai cast names]]          | July 22, 2025     |
-| [[Four Shades]]                  | July 15, 2025     |
-| [[What to know before Nod-Krai]] | June 23, 2025     |
-| [[Moon]]                         | June 23, 2025     |
-| [[Artifacts]]                    | June 17, 2025     |
-| [[Circlet of Logos]]             | June 17, 2025     |
-| [[Flower of Life]]               | June 17, 2025     |
-| [[Goblet of Eonothem]]           | June 17, 2025     |
-| [[Plume of Death]]               | June 17, 2025     |
-| [[Sands of Eon]]                 | June 17, 2025     |
-| [[Stygian Onslaught Weapons]]    | June 17, 2025     |
-| [[Finale of the Deep Galleries]] | June 17, 2025     |
-| [[Long Night's Oath]]            | June 17, 2025     |
-| [[Song of the Welkin Moon]]      | June 17, 2025     |
+| Page                             | Recently updated |
+| -------------------------------- | ---------------- |
+| [[Nod-Krai Concept Notes]]       | July 24, 2024    |
+| [[Moonlit Ballad of the Night]]  | July 22, 2025    |
+| [[Nod-Krai cast names]]          | July 22, 2025    |
+| [[Four Shades]]                  | July 15, 2025    |
+| [[What to know before Nod-Krai]] | June 23, 2025    |
+| [[Moon]]                         | June 23, 2025    |
+| [[Artifacts]]                    | June 17, 2025    |
+| [[Circlet of Logos]]             | June 17, 2025    |
+| [[Flower of Life]]               | June 17, 2025    |
+| [[Goblet of Eonothem]]           | June 17, 2025    |
+| [[Plume of Death]]               | June 17, 2025    |
+| [[Sands of Eon]]                 | June 17, 2025    |
+| [[Stygian Onslaught Weapons]]    | June 17, 2025    |
+| [[Finale of the Deep Galleries]] | June 17, 2025    |
+| [[Long Night's Oath]]            | June 17, 2025    |
+| [[Song of the Welkin Moon]]      | June 17, 2025    |
 
 
 
