@@ -60,6 +60,9 @@ So! This looks pretty clearly like a statue of Columbina, in the style of the St
 > [!jillian] 
 > I just can't wait to find out how it's possible for Columbina to only be the third-ranked Harbinger if she's basically an undeclared archon.
 
+![[pahaisle2.png]]
+Last-minute addition: you can see Ochkanatlan in the back of this photo.
+
 ### Hiisi Island
 ![[hiisiislepic.jpg]]
 
