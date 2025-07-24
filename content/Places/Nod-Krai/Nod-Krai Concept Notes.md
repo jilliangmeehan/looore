@@ -11,7 +11,7 @@ draft:
 There's [another Nod-Krai web event](https://act.hoyoverse.com/ys/event/e20250723light-uowufz/index.html) teasing some upcoming lore, so I wanted to immortalize it and take some notes. 
 
 ## Map
-![[content/images/nodkraimap.png]]
+![[nodkraimap.png]]
 
 To start, here's an image of the full map they showed us. If you look closely, you can also see little images depicting houses, boats, and ruins in some areas. I'm especially curious about that one lone house up on the island in the top right corner, pretty far away from anything notable.
 
