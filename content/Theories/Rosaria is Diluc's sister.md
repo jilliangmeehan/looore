@@ -15,6 +15,9 @@ Of all the dumb little theories I have, this is one of my favorites: I think Dil
 
 We don't know anything about Diluc's mother. She's not around, we don't know what happened to her, and nobody ever mentions her. This isn't *necessarily* unusual, since there are plenty of Genshin characters who rarely (if ever) mention their parents. But it is a little strange considering how much we know about Diluc's father, [Crepus](https://genshin-impact.fandom.com/wiki/Crepus).
 
+> [!jillian] 
+> Before we even get into it, let me acknowledge that as much as I like this theory I also think it's very unlikely that they would suddenly tell us two characters are related by blood years after they've been released. That would obviously be a mess. 🫩
+
 ## Crepus & the Fatui
 Specifically, we know from the [manga](https://genshin.hoyoverse.com/en/manga) that Crepus had a prototype Delusion and was (basically) assassinated by the Fatui. [^1] We know that Diluc has a special hatred for the Fatui, and that the Fatui declared him "persona non grata" [^2] after he took a little trip there. His [skin](https://genshin-impact.fandom.com/wiki/Red_Dead_of_Night) from the [Hidden Strife](https://genshin-impact.fandom.com/wiki/Hidden_Strife/Story) event, which looks very similar to a Fatui uniform, is also described as a "ceremonial uniform" that Crepus had made for him. 
 
