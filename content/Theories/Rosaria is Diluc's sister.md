@@ -109,6 +109,41 @@ Such an interesting voice line! Why does she have a voice line about her father 
 
 A Sister without reverence for the gods is just like a wine tycoon who hates drinking wine, isn't it?
 
+### The Hexenzirkel theory
+There is [a popular theory](https://www.reddit.com/r/Genshin_Lore/comments/11m2lg9/dilucs_mother_could_be_connected_to_the/) that Diluc's mother is part of the Hexenzirkel — more specifically, [[Nod-Krai cast names|Nicole]]. This is also a compelling theory, because of the Hexenzirkel tea set at Dawn Winery, and the fact that Alice has taken a bit of an interest in him. In the [Hidden Strife](https://genshin-impact.fandom.com/wiki/Hidden_Strife/Story#Letters_in_Dawn_Winery) event, we read a letter that she sent him after Crepus' death:
+
+> I've always had my eye on you, child.
+> 
+> ...
+> 
+> In many of the stories I've been told, you are the model knight: proud, driven, a knight of noble character and lineage.
+> 
+> ...
+> 
+> And since you helped my child out, I hope you won't mind if I treat you as if you were my own.
+> 
+> ...
+> 
+> Partings are most painful things, but they also encourage us to grow. A bird that has lost the roof over its head will fly further than others of its kind.
+> 
+> Go out and see the world. That's the best course of action I can envision. Only by feeling, observing, and listening can your heart be healed.
+> 
+> Parents all wish that they can accompany their children forever, and the skies, seas, and stars bear witness to that oath.
+> 
+> Everything that was your father now finds new life with you. That which you will experience in this world may have been things that your father experienced once upon a time.
+
+I think this theory is compelling, but there are a few things that don't quite fit to me:
+- Nicole is alive, out there in the world, and has even spoken to the Traveler to guide them on their journey somewhat recently. But it doesn't seem like she's had any contact with Diluc — if she had, I don't think Alice would have written him a letter like this.
+	- Maybe there's a reason she can't contact Diluc, but then there would be no reason for the tea set at Dawn Winery.
+	- If she *has* been in touch with Diluc this whole time, it's strange that we've heard absolutely nothing about it.
+- Alice and Klee (and Klee's nameless-but-mentioned father) are proof that Hexenzirkel witches can and do have families, but they are also very *weird* about it. 
+	- In [[The Little Witch and the Undying Fire]], there's something about participation in a carnival having something to do with a witch's marital status. 
+	- In [Joy Above the Clouds](https://genshin-impact.fandom.com/wiki/Joy_Above_the_Clouds), Alice says, "When a member of the organization had to leave the group to spend the rest of her days with her beloved, the other mages would write down this prophecy and send it to her to invite her for a final get-together." 
+
+Now that we've seen what Nicole looks like in [[Moonlit Ballad of the Night]], I'm more inclined to think that Nicole might be *Kaeya's* mother — she has the same star-shaped pupils as him. And since he also grew up at Dawn Winery, it would still make sense for her to use that tea set to keep an eye on the place from afar. 
+
+Or maybe she has nothing to do with either of them, and the tea set is just there because Alice brought it over to hang out with Diluc after Crepus died. (Although I really don't think the tea set would be there if it didn't mean anything.) Hopefully we'll get more answers in Nod-Krai!
+
 [^1]: Technically, he was killed because his Delusion backfired when he defeated Ursa the Drake, trying to protect Diluc. But in [Chapter 7](https://genshin.hoyoverse.com/en/manga/detail/104877?mute=1) of the manga, you can see a little glowing bug with the Fatui logo planted on the back of their wagon — which I assume is what led Ursa the Drake to them in the first place. 
 
 [^2]: Mentioned by Jean in [Hidden Tears](https://genshin-impact.fandom.com/wiki/Hidden_Tears).
