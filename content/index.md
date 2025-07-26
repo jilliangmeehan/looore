@@ -18,6 +18,7 @@ If you're on desktop, you might see a handy little "Explorer" in the left sideba
 
 | Page                             | Recently updated |
 | -------------------------------- | ---------------- |
+| [[Rosaria is Diluc's sister]]    | July 26, 2025    |
 | [[Nod-Krai Concept Notes]]       | July 24, 2024    |
 | [[Moonlit Ballad of the Night]]  | July 22, 2025    |
 | [[Nod-Krai cast names]]          | July 22, 2025    |
